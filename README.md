@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=a4a587&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Tuan.;Nice+to+meet+you)](https://github.com/CodingAce123)
 # 👶🏼 About AnhTuan:
- ####  ✨ You can call me Anhdadenbenems because I'm stupid hihi.
- ####  ✨ Now I am an IT student.
- ####  ✨ I love to learn, and explore new things, also interested in technology news.
+* ✨ You can call me Anhdadenbenems because I'm stupid hihi.
+* ✨ Now I am an IT student.
+* ✨ I love to learn, and explore new things, also interested in technology news.
 <br/><br/>
 <img align="left" alt="error solved" width=40% src="https://trynetsolutions.com/TS/b1.3.gif" >
 <br/>
