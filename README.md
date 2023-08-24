@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=eae1f5&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Anh+Tuan.;Nice+to+meet+you)](https://github.com/CodingAce123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=a4a587&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Anh+Tuan.;Nice+to+meet+you)](https://github.com/CodingAce123)
 
-# 🙋 About AnhTuan
+# 👶🏼 About AnhTuan:
 You can call me Anhdaden because I'm always hihi.
 Now I am an IT student.
 I love to learn, and explore new things, also interested in technology news.
@@ -20,30 +20,31 @@ I love to learn, and explore new things, also interested in technology news.
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 </div>
 
-## ☎ Contact me
+## ☎ Contact me:
 ```text
 - 📫 How to reach me: Message me 
 ```
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anhtuan23004)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_ahtuan2304_/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/mai.tuan.39948856)
 
 ## 🌝 Profile Views
 ![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=for-the-badge)
 
-## 📊 GitHub Stats
+## 👨🏽‍💻 GitHub Stats
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=anhtuan23004&hide_border=true&show_icons=true&count_private=true" alt="Anhdadenbenems's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=anhtuan23004&theme=jolly&hide_border=true&show_icons=true&count_private=true" alt="Anhdadenbenems's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=anhtuan23004&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=anhtuan23004&theme=synthwave&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=anhtuan23004&hide_border=true&background=fbf6f9&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Anhdadenbenems's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=anhtuan23004&hide_border=true&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D" alt="Tuuu's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
