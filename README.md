@@ -9,13 +9,17 @@
 [![Created Badge](https://badges.pufler.dev/created/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/anhtuan23004)](https://github.com/anhtuan23004)
 
-# 👶🏼 About AnhTuan:
-* ✨ You can call me Anhdadenbenems because I'm stupid hihi.
-* ✨ Now I am an IT student.
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
+
+* 🌈 You can call me Anhdadenbenems because I'm stupid hihi.
+* 🎓 Now I am an IT student.
 * ✨ I love to learn, and explore new things, also interested in technology news.
+* ⚡ Cravings: Food, Travelling and Playing Games 
+
 <br/><br/>
 <img align="left" alt="error solved" width=40% src="https://trynetsolutions.com/TS/b1.3.gif" >
 <br/>
+
 ```text
 ⏲️ Time Zone: Vietnam
 🧑‍💻 University : VNU University of Engineering and Technology – VNU-UET
@@ -51,8 +55,10 @@
 </div>
 
 ## ⚙ Skills:
-
-<div align="left">
+<h1 align='center'>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Languages <br/><br/> 
+    
+<div align="center">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
@@ -64,6 +70,73 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 </div>
 
+
+<h1 align="center">My Programming</h1>
+<details> 
+<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
+ <br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 100 Contributions in the Year 2023
+ > 
+> 📦 94.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+
+
+```text
+I'm an Early 🐤
+
+🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+🌆 Daytime    65 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
+🌃 Evening    18 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
+🌙 Night      0 commits      ████████████░░░░░░░░░░░░░   51.18%
+
+📊 This Week I Spent My Time On Playing Games 
+
+```
+
+```text
+⌚︎ Time Zone: VietNam
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+ Last Updated on 01/09/2023
+<!--END_SECTION:waka-->
+
+</details>
+
+<details>
+  <summary> 
+  <b>:zap: WakaTime Stats <img align="left" alt="Wakatime Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/wakatime.svg" /> :zap:</b>: </summary>
+<br />
+
+</details>
 
 ## ☎ Contact me:
 ```text
@@ -84,7 +157,7 @@
 <a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
 
-
+[![Visits](https://komarev.com/ghpvc/?username=anhtuan23004&label=Github%20Profile%20Visits&color=5683e1&logo=github&style=flat-square)](https://github.com/anhtuan23004)
 
 ## 👨🏽‍💻 GitHub Stats
 <table>
