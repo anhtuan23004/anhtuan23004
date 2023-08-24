@@ -1,7 +1,14 @@
 
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=a4a587&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Tuan.;Nice+to+meet+you)](https://github.com/CodingAce123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffdd0&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Tuan.;Nice+to+meet+you)](https://github.com/CodingAce123)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anhtuan23004)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/anhtuan23004)
+[![Updated Badge](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004/anhtuan23004/commits)
+[![Created Badge](https://badges.pufler.dev/created/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/anhtuan23004)](https://github.com/anhtuan23004)
+
 # 👶🏼 About AnhTuan:
 * ✨ You can call me Anhdadenbenems because I'm stupid hihi.
 * ✨ Now I am an IT student.
@@ -72,10 +79,12 @@
 
 
 ## 🌝 Profile Views
-![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat-square)
 
 <a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
+src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
+
+
 
 ## 👨🏽‍💻 GitHub Stats
 <table>
@@ -100,3 +109,6 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=for-
 
 ## Watch a baby 🐍 eat my Github Contribution Graph
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/CodingAce123)
+
