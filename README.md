@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=eae1f5&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Lan+Phuong.;Nice+to+meet+you)](https://github.com/CodingAce123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=eae1f5&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Anh+Tuan.;Nice+to+meet+you)](https://github.com/CodingAce123)
 
-# 🙋 About Lan Phuong 
-You can call me Nanghihi because I'm always hihi.
-Now I am an IT student, next year I will graduate.
+# 🙋 About AnhTuan
+You can call me Anhdaden because I'm always hihi.
+Now I am an IT student.
 I love to learn, and explore new things, also interested in technology news.
 ```text
 ⌚︎ Time Zone: Vietnam
@@ -11,8 +11,6 @@ I love to learn, and explore new things, also interested in technology news.
 <div align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
@@ -20,25 +18,15 @@ I love to learn, and explore new things, also interested in technology news.
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-   &nbsp; &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" width="40" height="40" /> </a>
-    &nbsp; &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="go" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40" /> </a>
 </div>
 
 ## ☎ Contact me
 ```text
 - 📫 How to reach me: Message me 
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: My dad is very genial 
 ```
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/nanphg287)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/nanphg287/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/nanphghihi) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='30'>](https://www.tiktok.com/@nanphghihi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anhtuan23004)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_ahtuan2304_/) 
 
 ## 🌝 Profile Views
 ![](https://komarev.com/ghpvc/?username=nanphg287&color=ff69b4&style=for-the-badge)
