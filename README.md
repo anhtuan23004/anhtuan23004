@@ -54,9 +54,9 @@
     <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="25" height="25"/>
 </div>
 
-## ⚙ Skills:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills:
 <h1 align='center'>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Languages <br/><br/> 
+   Languages <br/><br/> 
     
 <div align="center">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
@@ -73,7 +73,7 @@
 
 <h1 align="center">My Programming</h1>
 <details> 
-<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
+<summary> <img align="center" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
  <br>
 
 <!--START_SECTION:waka-->
@@ -134,9 +134,13 @@ No Activity Tracked This Week
 
 <details>
     
-   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
+   <summary>
+       <img align="center" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 
+⚙ Flexing:
+
+<div align="center">
 <table>
   <tr>
     <td>
@@ -178,6 +182,12 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat
 
 [![Visits](https://komarev.com/ghpvc/?username=anhtuan23004&label=Github%20Profile%20Visits&color=5683e1&logo=github&style=flat-square)](https://github.com/anhtuan23004)
 
+## Listen With Me On Spotify 🎧
+
+[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/episode/6PqwHB3XJy9M5f8M5cmidY) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/episode/6PqwHB3XJy9M5f8M5cmidY)
+
+
+ 
 ## Watch a baby 🐍 eat my Github Contribution Graph
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
