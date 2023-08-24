@@ -29,26 +29,26 @@ I love to learn, and explore new things, also interested in technology news.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_ahtuan2304_/) 
 
 ## 🌝 Profile Views
-![](https://komarev.com/ghpvc/?username=nanphg287&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=anhtuan23004&color=ff69b4&style=for-the-badge)
 
 ## 📊 GitHub Stats
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=nanphg287&hide_border=true&show_icons=true&count_private=true" alt="Nanphg287's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=anhtuan23004&hide_border=true&show_icons=true&count_private=true" alt="Anhdadenbenems's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=nanphg287&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=anhtuan23004&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=nanphg287&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Nanphg287's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=anhtuan23004&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Anhdadenbenems's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
 
-[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=nanphg287&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=anhtuan23004&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
