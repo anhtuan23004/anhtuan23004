@@ -60,18 +60,22 @@
 
 ## ☎ Contact me:
 ```text
-- 📫 How to reach me: Message me 
+- 📫 How to reach me: Message me
+- 😄 Pronouns: Her
+- ⚡ Fun fact: 人生就像一本书，出生是封面，归去是封底，内容要靠自己填。
 ```
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anhtuan23004)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_ahtuan2304_/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30' >](https://www.facebook.com/mai.tuan.39948856)
 
-<a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
+
 
 ## 🌝 Profile Views
 ![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=for-the-badge)
+
+<a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
 
 ## 👨🏽‍💻 GitHub Stats
 <table>
