@@ -29,7 +29,7 @@ I love to learn, and explore new things, also interested in technology news.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_ahtuan2304_/) 
 
 ## 🌝 Profile Views
-![](https://komarev.com/ghpvc/?username=anhtuan23004&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=for-the-badge)
 
 ## 📊 GitHub Stats
 <table>
