@@ -9,7 +9,7 @@
 [![Updated Badge](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004/anhtuan23004/commits)
 [![Created Badge](https://badges.pufler.dev/created/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/anhtuan23004)](https://github.com/anhtuan23004)
-
+[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://github.com/anhtuan23004)
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
