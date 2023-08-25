@@ -3,11 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=4cffc3&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Tuan.;Nice+to+meet+you)](https://github.com/anhtuan23004)
 
+[![Contributors Display](https://badges.pufler.dev/contributors/pujux/badge-it?size=20&padding=5&perRow=10&bots=true)](https://github.com/anhtuan23004)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anhtuan23004)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/anhtuan23004)
 [![Updated Badge](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004/anhtuan23004/commits)
 [![Created Badge](https://badges.pufler.dev/created/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/anhtuan23004)](https://github.com/anhtuan23004)
+
+
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 
