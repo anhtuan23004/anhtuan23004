@@ -142,16 +142,16 @@ No Activity Tracked This Week
        <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 
-⚙ Flexing:
+⚙ Stats :
 
 <div align="center">
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=anhtuan23004&theme=jolly&hide_border=true&show_icons=true&count_private=true" alt="Anhdadenbenems's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=anhtuan23004&theme=material-palenight&hide_border=true&show_icons=true&count_private=true" alt="Anhdadenbenems's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=anhtuan23004&theme=synthwave&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=anhtuan23004&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
