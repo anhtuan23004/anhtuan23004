@@ -136,7 +136,7 @@ No Activity Tracked This Week
 <details>
     
    <summary>
-       <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
+       <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 
 ⚙ Flexing:
@@ -169,16 +169,16 @@ No Activity Tracked This Week
 - ⚡ Fun fact: 人生就像一本书，出生是封面，归去是封底，内容要靠自己填。
 ```
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anhtuan23004)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/_ahtuan2304_/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30' >](https://www.facebook.com/mai.tuan.39948856)
-
-
+<p align="left"> </a> 
+<a href="https://www.github.com/anhtuan23004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" title="GitHub"/> </a> 
+<a href="https://www.instagram.com/_ahtuan2304_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" title="Instagram"/> </a> 
+<a href="https://www.facebook.com/mai.tuan.39948856" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" title="Facebook"/> </a> 
+</p>
 
 ## 🌝 Profile Views
 ![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat-square)
 
-<a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/anhtuan23004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
 
 [![Visits](https://komarev.com/ghpvc/?username=anhtuan23004&label=Github%20Profile%20Visits&color=5683e1&logo=github&style=flat-square)](https://github.com/anhtuan23004)
