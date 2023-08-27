@@ -58,10 +58,12 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills:
-<h1 align='center'>
-   Languages <br/><br/> 
+<details> 
+    <summary> 
+      <img align="left" alt="Language" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Language: :zap:</b>: </summary>
+ <br>
     
-<div align="center">
+<div align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
@@ -72,9 +74,18 @@
   &nbsp; &nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 </div>
+</details>
 
+<details> 
+    <summary> 
+      <img align="left" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/> <b>:zap: WedCode: :zap:</b>: </summary>
+ <br>
+  <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer"> <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://leetcode.com/anhtuan234004" target="_blank" rel="noreferrer"> <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+</details>
 
-<h1 align="center">My Programming, Github Stats</h1>
+## <img src="https://media0.giphy.com/media/iiQA3XipeLgREzRKJN/giphy.gif" width="15"> My Programming, Github Stats:
 <details> 
 <summary> 
     <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
@@ -190,9 +201,10 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/episode/6PqwHB3XJy9M5f8M5cmidY) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/episode/1LnF1ipcL8qeL7l3W6K1sx)
 
-
 ## Watch a baby 🐍 eat my Github Contribution Graph
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/anhtuan23004)
+
+<a href="https://github.com/anhtuan23004"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
