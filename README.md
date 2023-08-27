@@ -139,11 +139,7 @@ No Activity Tracked This Week
 
 ```
 
-**Timeline**
-
  Last Updated on 01/09/2023
-<!--END_SECTION:waka-->
-
 </details>
 
 
@@ -200,6 +196,12 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat
 ## Listen With Me On Spotify 🎧
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/episode/6PqwHB3XJy9M5f8M5cmidY) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/episode/1LnF1ipcL8qeL7l3W6K1sx)
+<div align="left">
+  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
+  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
+  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
+<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>  
+</div>
 
 ## Watch a baby 🐍 eat my Github Contribution Graph
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
