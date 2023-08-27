@@ -80,9 +80,9 @@
     <summary> 
       <img align="left" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/> <b>:zap: WedCode: :zap:</b>: </summary>
  <br>
-  <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer"> <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://leetcode.com/anhtuan234004" target="_blank" rel="noreferrer"> <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </details>
 
 ## <img src="https://media0.giphy.com/media/iiQA3XipeLgREzRKJN/giphy.gif" width="15"> My Programming, Github Stats:
