@@ -14,7 +14,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 
-* 🌈 You can call me Anhdadenbenems because I'm stupid hihi.
+* 🌈 You can call me ChuBeDan because I'm stupid hihi.
 * 🎓 Now I am an IT student.
 * ✨ I love to learn, and explore new things, also interested in technology news.
 * ⚡ Cravings: Food, Travelling and Playing Games 
@@ -57,6 +57,14 @@
     <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="25" height="25"/>
 </div>
 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+<p align="center">
+    
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills:
 <details> 
     <summary> 
@@ -97,14 +105,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
-
-> 🏆 100 Contributions in the Year 2023
- > 
-> 📦 94.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -193,9 +194,10 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat
 
 [![Visits](https://komarev.com/ghpvc/?username=anhtuan23004&label=Github%20Profile%20Visits&color=5683e1&logo=github&style=flat-square)](https://github.com/anhtuan23004)
 
-## Listen With Me On Spotify 🎧
+## Listen With Me🎧
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/episode/6PqwHB3XJy9M5f8M5cmidY) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/episode/1LnF1ipcL8qeL7l3W6K1sx)
+
 <div align="left">
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
   <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
