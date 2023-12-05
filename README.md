@@ -149,24 +149,22 @@ No Activity Tracked This Week
        <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <b> GitHub Stats </b>: </summary>
 <br />
 
-⚙ Stats :
+<a href="https://github.com/anhtuan23004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/anhtuan23004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AnhTuan's GitHub Stats" />
+</a>
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=anhtuan23004&theme=material-palenight&hide_border=true&show_icons=true&count_private=true" alt="Anhdadenbenems's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=anhtuan23004&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=anhtuan23004&hide_border=true&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D" alt="Tuuu's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anhtuan23004/Dictionary_Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhtuan23004&repo=Dictionary_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/anhtuan23004/TetrisGame.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhtuan23004&repo=TetrisGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 </details>
 
@@ -208,4 +206,5 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/anhtuan23004)
 
 <a href="https://github.com/anhtuan23004"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 
