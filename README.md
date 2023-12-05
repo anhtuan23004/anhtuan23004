@@ -168,8 +168,6 @@ No Activity Tracked This Week
   </tr>
 </table>
 
-[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=anhtuan23004&no-frame=true&no-bg=true&theme=discord&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) 
-
 </details>
 
 ## ☎ Contact me:
