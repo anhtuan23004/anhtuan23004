@@ -11,7 +11,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/anhtuan23004)](https://github.com/anhtuan23004)
 [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://github.com/anhtuan23004)
 
-
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 
 * 🌈 You can call me ChuBeDan because I'm stupid hihi.
@@ -150,7 +149,7 @@ No Activity Tracked This Week
 <br />
 
 <a href="https://github.com/anhtuan23004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan23004&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/anhtuan23004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AnhTuan's GitHub Stats" />
@@ -159,12 +158,6 @@ No Activity Tracked This Week
 <a href="https://github.com/anhtuan23004/Dictionary_Project.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhtuan23004&repo=Dictionary_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
-<a href="https://github.com/anhtuan23004/TetrisGame.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhtuan23004&repo=TetrisGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 
 </details>
 
@@ -205,6 +198,13 @@ src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/anhtuan23004)
 
+
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+
 <a href="https://github.com/anhtuan23004"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
