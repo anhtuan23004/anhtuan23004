@@ -61,14 +61,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-
 <p align="center">
     
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills:
+
 <details> 
     <summary> 
-      <img align="left" alt="Language" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Language: :zap:</b>: </summary>
+      <img align="left" alt="Language" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>Language </b>: </summary>
  <br>
     
 <div align="left">
@@ -86,7 +85,7 @@
 
 <details> 
     <summary> 
-      <img align="left" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/> <b>:zap: WedCode: :zap:</b>: </summary>
+      <img align="left" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/> <b> WedCode </b>: </summary>
  <br>
   <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer"> <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
@@ -96,7 +95,7 @@
 ## <img src="https://media0.giphy.com/media/iiQA3XipeLgREzRKJN/giphy.gif" width="15"> My Programming, Github Stats:
 <details> 
 <summary> 
-    <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
+    <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b> Programming Stats </b>: </summary>
  <br>
 
 <!--START_SECTION:waka-->
@@ -147,7 +146,7 @@ No Activity Tracked This Week
 <details>
     
    <summary>
-       <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
+       <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <b> GitHub Stats </b>: </summary>
 <br />
 
 ⚙ Stats :
