@@ -13,8 +13,8 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 
-* 🌈 You can call me ChuBeDan because I'm stupid hihi.
-* 🎓 Now I am an IT student.
+* 🌈 You can call me AngTuan because I'm lazy hihi.
+* 🎓 Now I am an IT student. I have to really achieve success to marry a rich wife.
 * ✨ I love to learn, and explore new things, also interested in technology news.
 * ⚡ Cravings: Food, Travelling and Playing Games 
 
@@ -27,6 +27,7 @@
 🧑‍💻 University : VNU University of Engineering and Technology – VNU-UET
 🏠 Lives in : Hanoi
 🛖 From : Namdinh
+
 ```
 <p align="center">️<small>Eat 🍲 Sleep 😴 Code 💻 Repeat 🔁</small></p>
 
