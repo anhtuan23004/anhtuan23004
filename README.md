@@ -4,7 +4,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anhtuan23004)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/anhtuan23004)
 [![Updated Badge](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004/anhtuan23004/commits)
-[![Created Badge](https://badges.pufler.dev/created/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004)
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 
