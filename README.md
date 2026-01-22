@@ -1,201 +1,286 @@
-
+# Mai Anh Tuan
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=4cffc3&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Tuan.;Nice+to+meet+you)](https://github.com/anhtuan23004)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anhtuan23004)
+[![GitHub](https://img.shields.io/badge/GitHub-anhtuan23004-181717?style=flat&logo=github)](https://github.com/anhtuan23004)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/anhtuan23004)
-[![Updated Badge](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004)](https://github.com/anhtuan23004/anhtuan23004/commits)
+[![Profile Views](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat)](https://github.com/anhtuan23004)
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
+---
 
-* 🌈 You can call me AnhTuan.
-* 🎓 Now I am an IT student. I have to really achieve success to marry a rich wife.
-* ✨ I love to learn, and explore new things, also interested in technology news.
-* ⚡ Cravings: Food, Travelling and Playing Games 
+## Professional Summary
 
-<br/><br/>
-<img align="left" alt="error solved" width=40% src="https://trynetsolutions.com/TS/b1.3.gif" >
-<br/>
+AI Engineer focused on Large Language Models (LLMs), RAG, and AI agents. Currently studying Information Technology at VNU University of Engineering and Technology (VNU-UET), I build end-to-end AI applications and scalable machine learning systems.
 
-```text
-⏲️ Time Zone: Vietnam
-🧑‍💻 University : VNU University of Engineering and Technology – VNU-UET
-🏠 Lives in : Hanoi
-🛖 From : Namdinh
+<img align="left" alt="error solved" src="https://trynetsolutions.com/TS/b1.3.gif" >
 
-```
-<p align="center">️<small>Eat 🍲 Sleep 😴 Code 💻 Repeat 🔁</small></p>
+**Core Expertise:**
+- 🤖 Large Language Model development and fine-tuning
+- 🔍 Advanced RAG architectures and retrieval systems
+- 🛠️ Production-grade AI agent deployment
+- 📊 NLP applications
+- 💻 ML engineering (PyTorch, Hugging Face, Flask, Streamlit)
+
+**Portfolio Metrics:**
+- 📦 6 public repositories with focus on AI/ML
+- ⭐ Multiple starred projects in LLM and RAG domains
+- 🌏 Based in Hanoi, Vietnam (GMT+7)
+- 💼 Active contributor to open-source AI initiatives
+
+---
+
+## Technical Proficiencies
+
+### AI/ML Frameworks & Technologies
+
+**Deep Learning & NLP:**
+- PyTorch, TensorFlow
+- Hugging Face Transformers (DistilBERT, GPT architectures)
+- LangChain, LlamaIndex
+- Vector databases and embeddings
+
+**Computer Vision:**
+- YOLOv8 object detection
+- OpenCV
+- Image processing pipelines
+
+**ML Operations:**
+- Flask, Streamlit (production deployment)
+- Model serving and API development
+- Batch processing systems
+
+### Programming Languages
+
+### AI/ML & Programming Stack
+
+**Languages & Core Frameworks**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+**Data Science & Machine Learning**
+<div align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+</div>
+
+**Tools & Infrastructure**
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</div>
+
+**Core Competencies:**
+- **AI/ML Development:** Python (primary), PyTorch, scikit-learn
+- **Systems Programming:** C, C++
+- **Object-Oriented Development:** Java
+- **Database Management:** MySQL, Vector DBs
+
+### Development Platforms
+
+<div align="left">
+  <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## Projects (Key Contributions)
+
+### AI/ML Applications
+
+#### [DocuminChat](https://github.com/anhtuan23004/DocuminChat) ⭐
+A Streamlit application for chatting with documents including PDFs, JSON, and CSVs using LLMs and vector embeddings.
+
+**Technologies:** Streamlit, LangChain, Vector Embeddings, NLP
+
+### Natural Language Processing
+
+#### [SentimentScope](https://github.com/anhtuan23004/SentimentScope) ⭐
+A Flask web app for sentiment analysis on text and CSV files using DistilBERT.
+
+**Technologies:** Flask, Hugging Face, DistilBERT, TextBlob, NLP
+
+#### [MailGuard](https://github.com/anhtuan23004/MailGuard) ⭐
+Spam email detection using machine learning models trained on Kaggle datasets.
+
+**Technologies:** scikit-learn, Classification, Feature Engineering
+
+### Computer Vision
+
+#### [VisionServe](https://github.com/anhtuan23004/VisionServe) ⭐
+A Flask app for object detection using YOLOv8 to identify objects with bounding boxes and confidence scores.
+
+**Technologies:** Flask, YOLOv8, Computer Vision, Object Detection
+
+### Machine Learning Applications
+
+#### [CalorieBurnML](https://github.com/anhtuan23004/CalorieBurnML) ⭐
+Predicts calorie burn during exercise based on physique and activity data using regression models.
+
+**Technologies:** Regression Models, scikit-learn, Feature Engineering
+
+#### [CMI](https://github.com/anhtuan23004/CMI) ⭐ (Forked: 2)
+Solution for the CMI Problematic Internet Use challenge on Kaggle. Developed with team Zenith³ at VNU-UET using ML for behavioral analysis.
+
+**Technologies:** Kaggle, Competition ML, Data Science
+
+### Software Engineering Projects
+
+#### [ToolOS](https://github.com/anhtuan23004/ToolOS) ⭐
+Utility operating system toolkit for development workflows.
+
+#### [Dictionary_Project](https://github.com/anhtuan23004/Dictionary_Project) ⭐
+A Java dictionary app using MVC and MySQL for data storage.
+
+**Technologies:** Java, MVC, MySQL
+
+#### [TetrisGame](https://github.com/anhtuan23004/TetrisGame) ⭐⭐
+Classic Tetris in C++ using SDL2. Includes scoring and high scores.
+
+**Technologies:** C++, SDL2, Game Development
+
+#### [DSA](https://github.com/anhtuan23004/DSA) ⭐
+Practice problems and implementations of data structures and algorithms in Java.
+
+**Technologies:** Java, Algorithms, Data Structures
+
+---
+
+## Publications/Presentations
+
+### Research Interests
+- Large Language Model optimization and fine-tuning
+- Retrieval-Augmented Generation architectures
+- Production deployment of AI agent systems
+- Multi-modal AI applications
+
+*Section available for future academic publications, conference presentations, and technical articles.*
+
+---
+
+## Education
+
+**VNU University of Engineering and Technology (VNU-UET)**  
+*Bachelor of Science in Information Technology*  
+Location: Hanoi, Vietnam  
+Status: Currently Enrolled
+
+**Academic Focus:**
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Neural Networks
+- Natural Language Processing
+- Large Language Models
+- Retrieval-Augmented Generation
+- Data Structures and Algorithms
+
+**Competitive Programming:**
+- Active participant on HackerRank and LeetCode platforms
+- Kaggle competition contributor
+
+
+## GitHub Statistics
 
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/ripparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/wfhparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="25" height="25"/>
-</div>
 
+**Repository Portfolio:**
+- 📜 19 Public Repositories
+- ⭐ Multiple starred AI/ML projects
+- 🔄 Active development and contributions
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<p align="center">
-    
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills:
-
-<details> 
-    <summary> 
-      <img align="left" alt="Language" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>Language </b>: </summary>
- <br>
-    
-<div align="left">
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-</div>
-</details>
-
-<details> 
-    <summary> 
-      <img align="left" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/> <b> WedCode </b>: </summary>
- <br>
-  <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer"> <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
-  &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
-</details>
-
-## <img src="https://media0.giphy.com/media/iiQA3XipeLgREzRKJN/giphy.gif" width="15"> My Programming, Github Stats:
-<details> 
-<summary> 
-    <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b> Programming Stats </b>: </summary>
- <br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-> 📜 5 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-
+**Development Activity:**
 
 ```text
-I'm an Early 🐤
-
-🌞 Morning    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-🌆 Daytime    00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
-🌃 Evening    44 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
-🌙 Night      65 commits     ████████████░░░░░░░░░░░░░   51.18%
-
-📊 This Week I Spent My Time On Playing Game.
-
+Commit Distribution:
+🌞 Morning    18 commits     14.17%
+🌆 Daytime    00 commits     00.00%
+🌃 Evening    44 commits     34.65%
+🌙 Night      65 commits     51.18%
 ```
 
-```text
-⌚︎ Time Zone: VietNam
+</div>
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
- Last Updated on 01/09/2023
-</details>
-
-
-<details>
-    
-   <summary>
-       <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <b> GitHub Stats </b>: </summary>
-<br />
+**Language Distribution:**
 
 <a href="https://github.com/anhtuan23004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan23004&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan23004&hide=html,tex&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1&langs_count=6&layout=compact" alt="Top Languages" />
 </a>
+
+**GitHub Metrics:**
+
 <a href="https://github.com/anhtuan23004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AnhTuan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&line_height=27&count_private=true&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1" alt="GitHub Stats" />
 </a>
 
-</details>
+---
 
-## ☎ Contact me:
-```text
-- 📫 How to reach me: Message me
-- 😄 Pronouns: Her
-- ⚡ Fun fact: 人生就像一本书，出生是封面，归去是封底，内容要靠自己填。
-```
+## Contact Information
 
-<p align="left"> </a> 
-<a href="https://www.github.com/anhtuan23004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" title="GitHub"/> </a> 
-<a href="https://www.instagram.com/_ahtuan2304_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" title="Instagram"/> </a> 
-<a href="https://www.facebook.com/mai.tuan.39948856" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" title="Facebook"/> </a> 
-</p>
-
-## 🌝 Profile Views
-![](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat-square)
-
-<a href="https://www.github.com/anhtuan23004" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
-
-[![Visits](https://komarev.com/ghpvc/?username=anhtuan23004&label=Github%20Profile%20Visits&color=5683e1&logo=github&style=flat-square)](https://github.com/anhtuan23004)
-
-## Listen With Me🎧
-
-[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/episode/6PqwHB3XJy9M5f8M5cmidY) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/episode/1LnF1ipcL8qeL7l3W6K1sx)
+**Primary Contact Methods:**
 
 <div align="left">
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>  
+  <a href="https://www.github.com/anhtuan23004" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" title="GitHub" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/mai.tuan.39948856" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" title="Facebook" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_ahtuan2304_/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" title="Instagram" alt="Instagram"/>
+  </a>
 </div>
 
-## Watch a baby 🐍 eat my Github Contribution Graph
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
+**Professional Profiles:**
+- 💼 GitHub: [@anhtuan23004](https://github.com/anhtuan23004)
+- 🏆 HackerRank: [anhtuan234004](https://www.hackerrank.com/anhtuan234004?hr_r=1)
+- 📍 Location: Hanoi, Vietnam
+- ⏰ Time Zone: Indochina Time (ICT, UTC+7)
+
+---
+
+<div align="center">
+
+### Engagement Metrics
+
+[![Followers](https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=3498db&labelColor=2c3e50)](https://github.com/anhtuan23004)
+[![Last Commit](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004?style=flat-square&color=3498db&labelColor=2c3e50)](https://github.com/anhtuan23004/anhtuan23004/commits)
+
+## Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake.svg)
+
+---
+
+*Open to collaboration opportunities in AI/ML research and production systems.*
+
+**Areas of Interest:**
+- Fine-tuning LLMs
+- RAG system design
+- AI agents
+- Multi-modal AI
+- Production ML
+
+**Support This Work:**  
+Contributions, issues, and feature requests are welcome following the [GitHub Flow](https://guides.github.com/introduction/flow).
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/anhtuan23004)
-
-
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-
-<a href="https://github.com/anhtuan23004"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
