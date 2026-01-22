@@ -205,29 +205,16 @@ Status: Currently Enrolled
 - ⭐ Multiple starred AI/ML projects
 - 🔄 Active development and contributions
 
-**Development Activity:**
-
-```text
-Commit Distribution:
-🌞 Morning    18 commits     14.17%
-🌆 Daytime    00 commits     00.00%
-🌃 Evening    44 commits     34.65%
-🌙 Night      65 commits     51.18%
-```
-
 </div>
 
-**Recent GitHub Activity**
+**Development Activity:**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
 <p align="center">
-  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/0-github-stats.svg" width="400" />
-  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/1-repos-per-language.svg" width="400" />
-  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
-  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/3-stats.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/1-repos-per-language.svg" width="300" />
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/2-most-commit-language.svg" width="300" />
 </p>
 
 **Language Distribution:**
@@ -277,9 +264,11 @@ Commit Distribution:
 [![Followers](https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=3498db&labelColor=2c3e50)](https://github.com/anhtuan23004)
 [![Last Commit](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004?style=flat-square&color=3498db&labelColor=2c3e50)](https://github.com/anhtuan23004/anhtuan23004/commits)
 
-## Contribution Graph
+<h2 align="center">🐍 Contribution Graph</h2>
 
-![Snake animation](https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
