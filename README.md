@@ -7,7 +7,7 @@
 
 ---
 
-## Professional Summary
+## 🧠 Professional Summary
 
 AI Engineer focused on Large Language Models (LLMs), RAG, and AI agents. Currently studying Information Technology at VNU University of Engineering and Technology (VNU-UET), I build end-to-end AI applications and scalable machine learning systems.
 
@@ -28,7 +28,7 @@ AI Engineer focused on Large Language Models (LLMs), RAG, and AI agents. Current
 
 ---
 
-## Technical Proficiencies
+## 🛠️ Technical Proficiencies
 
 ### AI/ML Frameworks & Technologies
 
@@ -71,13 +71,17 @@ AI Engineer focused on Large Language Models (LLMs), RAG, and AI agents. Current
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </div>
 
-**Tools & Infrastructure**
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</div>
+
+**Databases & Vector Search**
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Milvus-00A9E0?style=flat&logo=milvus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-D32F2F?style=flat&logo=qdrant&logoColor=white" />
 </div>
 
 **Core Competencies:**
@@ -92,79 +96,31 @@ AI Engineer focused on Large Language Models (LLMs), RAG, and AI agents. Current
   <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/u/anhtuan234004/" target="_blank" rel="noreferrer">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://www.kaggle.com/anhtuan23004" target="_blank" rel="noreferrer">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## Projects (Key Contributions)
+## 🚀 AI Projects
 
-### AI/ML Applications
+**Featured AI Applications**
 
-#### [DocuminChat](https://github.com/anhtuan23004/DocuminChat) ⭐
-A Streamlit application for chatting with documents including PDFs, JSON, and CSVs using LLMs and vector embeddings.
+- **[DocuminChat](https://github.com/anhtuan23004/DocuminChat)** - RAG system for intelligent chat with PDF, JSON, and CSV documents using LangChain and vector embeddings.
+- **[SentimentScope](https://github.com/anhtuan23004/SentimentScope)** - Real-time sentiment analysis engine powered by DistilBERT and Flask for text and CSV analysis.
+- **[VisionServe](https://github.com/anhtuan23004/VisionServe)** - High-performance object detection system utilizing YOLOv8 to identify objects with bounding boxes and confidence scores.
+- **[MailGuard](https://github.com/anhtuan23004/MailGuard)** - Machine learning-based spam detection engine with advanced feature engineering, trained on Kaggle datasets.
 
-**Technologies:** Streamlit, LangChain, Vector Embeddings, NLP
-
-### Natural Language Processing
-
-#### [SentimentScope](https://github.com/anhtuan23004/SentimentScope) ⭐
-A Flask web app for sentiment analysis on text and CSV files using DistilBERT.
-
-**Technologies:** Flask, Hugging Face, DistilBERT, TextBlob, NLP
-
-#### [MailGuard](https://github.com/anhtuan23004/MailGuard) ⭐
-Spam email detection using machine learning models trained on Kaggle datasets.
-
-**Technologies:** scikit-learn, Classification, Feature Engineering
-
-### Computer Vision
-
-#### [VisionServe](https://github.com/anhtuan23004/VisionServe) ⭐
-A Flask app for object detection using YOLOv8 to identify objects with bounding boxes and confidence scores.
-
-**Technologies:** Flask, YOLOv8, Computer Vision, Object Detection
-
-### Machine Learning Applications
-
-#### [CalorieBurnML](https://github.com/anhtuan23004/CalorieBurnML) ⭐
-Predicts calorie burn during exercise based on physique and activity data using regression models.
-
-**Technologies:** Regression Models, scikit-learn, Feature Engineering
-
-#### [CMI](https://github.com/anhtuan23004/CMI) ⭐ (Forked: 2)
-Solution for the CMI Problematic Internet Use challenge on Kaggle. Developed with team Zenith³ at VNU-UET using ML for behavioral analysis.
-
-**Technologies:** Kaggle, Competition ML, Data Science
-
-### Software Engineering Projects
-
-#### [ToolOS](https://github.com/anhtuan23004/ToolOS) ⭐
-Utility operating system toolkit for development workflows.
-
-#### [Dictionary_Project](https://github.com/anhtuan23004/Dictionary_Project) ⭐
-A Java dictionary app using MVC and MySQL for data storage.
-
-**Technologies:** Java, MVC, MySQL
-
-#### [TetrisGame](https://github.com/anhtuan23004/TetrisGame) ⭐⭐
-Classic Tetris in C++ using SDL2. Includes scoring and high scores.
-
-**Technologies:** C++, SDL2, Game Development
-
-#### [DSA](https://github.com/anhtuan23004/DSA) ⭐
-Practice problems and implementations of data structures and algorithms in Java.
-
-**Technologies:** Java, Algorithms, Data Structures
+> [!NOTE]
+> Additional software engineering projects—including C++ games (Tetris), Java utilities (Dictionary Project), and Data Structures implementations—are available in my [repositories](https://github.com/anhtuan23004?tab=repositories).
 
 ---
 
-## Publications/Presentations
+## 📝 Publications & Research Interests
 
 ### Research Interests
 - Large Language Model optimization and fine-tuning
@@ -176,7 +132,7 @@ Practice problems and implementations of data structures and algorithms in Java.
 
 ---
 
-## Education
+## 🎓 Education
 
 **VNU University of Engineering and Technology (VNU-UET)**  
 *Bachelor of Science in Information Technology*  
@@ -196,7 +152,7 @@ Status: Currently Enrolled
 - Kaggle competition contributor
 
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -231,7 +187,7 @@ Status: Currently Enrolled
 
 ---
 
-## Contact Information
+## 📩 Contact Information
 
 **Primary Contact Methods:**
 
