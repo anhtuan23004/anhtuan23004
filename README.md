@@ -217,6 +217,19 @@ Commit Distribution:
 
 </div>
 
+**Recent GitHub Activity**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+<p align="center">
+  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/0-github-stats.svg" width="400" />
+  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/1-repos-per-language.svg" width="400" />
+  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
+  <img src="https://github.com/anhtuan23004/anhtuan23004/blob/main/profile-summary-card-output/default/3-stats.svg" width="400" />
+</p>
+
 **Language Distribution:**
 
 <a href="https://github.com/anhtuan23004">
