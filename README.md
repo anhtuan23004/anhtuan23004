@@ -44,7 +44,7 @@ I build agentic AI systems that combine language models, retrieval, tools, and p
 - Retrieval-Augmented Generation over documents, tabular data, and domain knowledge
 - Production AI application layers with Python, Flask, Streamlit, APIs, and data pipelines
 - NLP and classification systems using Hugging Face, DistilBERT, scikit-learn, and PyTorch
-- Applied ML systems for document processing, medical data crawling, object detection, and decision support
+- Applied ML systems for document processing, medical data crawling, local LLM infrastructure, and decision support
 
 ## Education
 
@@ -57,11 +57,11 @@ Hanoi, Vietnam
 | Project | Focus | Stack |
 | --- | --- | --- |
 | [Undergraduate-thesis-2026](https://github.com/anhtuan23004/Undergraduate-thesis-2026) | Agentic AI insurance claims processing with a LangGraph multi-agent architecture | Python, LangGraph, LLMs |
+| [LocalLLM](https://github.com/anhtuan23004/LocalLLM) | Local LLM infrastructure for serving, fine-tuning, evaluation, and observability | Docker, Ollama, vLLM, Unsloth |
 | [CrawlMed](https://github.com/anhtuan23004/CrawlMed) | Structured crawler for pharmaceutical and medicine websites | Python, Crawl4AI, streaming crawlers |
 | [langgraph-agent-skill](https://github.com/anhtuan23004/langgraph-agent-skill) | Reusable LangGraph skill for stateful agent workflows and AI coding agents | LangGraph, Python, agent workflows |
 | [DocuminChat](https://github.com/anhtuan23004/DocuminChat) | Conversational RAG over CSV, XLSX, JSON, and PDF files | Streamlit, embeddings, LangChain |
 | [SentimentScope](https://github.com/anhtuan23004/SentimentScope) | Sentiment analysis for text and batch CSV input | Flask, DistilBERT, TextBlob |
-| [VisionServe](https://github.com/anhtuan23004/VisionServe) | Object detection web application with bounding boxes and confidence scores | Flask, YOLOv8, OpenCV |
 
 ## Technical Stack
 
@@ -71,7 +71,9 @@ Hanoi, Vietnam
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-4B5563?style=for-the-badge&logoColor=white" />
+  <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-2F855A?style=for-the-badge&logoColor=white" />
 </p>
 
 <p>
@@ -89,6 +91,7 @@ Hanoi, Vietnam
 ## Current Direction
 
 - Building a LangGraph-based multi-agent thesis system for health insurance claim processing
+- Developing local LLM infrastructure for model serving, fine-tuning, evaluation, and observation
 - Improving RAG quality through better chunking, retrieval evaluation, and tool routing
 - Turning repeatable agent patterns into reusable skills, templates, and production-ready workflows
 - Expanding practical ML projects from notebooks into deployable applications
