@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anhtuan23004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=4cffc3&size=44&center=true&vCenter=true&width=900&height=80&lines=Agentic+AI+Engineer;Mai Anh Tuan" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=4cffc3&size=44&center=true&vCenter=true&width=900&height=80&lines=Agentic+AI+Engineer;Mai+Anh+Tuan" alt="Typing introduction" />
   </a>
 </p>
 
