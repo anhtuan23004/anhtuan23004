@@ -2,28 +2,41 @@
 
 <p align="center">
   <a href="https://github.com/anhtuan23004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=4cffc3&size=44&center=true&vCenter=true&width=900&height=80&lines=Agentic+AI+Engineer;Mai+Anh+Tuan" alt="Typing introduction" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20,24,30&text=Mai%20Anh%20Tuan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%7C%20RAG%20%7C%20LLM%20Apps%20%7C%20ML%20Systems&descSize=16&descAlignY=55" alt="Mai Anh Tuan profile banner" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anhtuan23004">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-anhtuan23004-181717?style=flat-square&logo=github" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-anhtuan23004-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/profile-summary-cards.yml">
-    <img alt="Profile summary cards workflow" src="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/profile-summary-cards.yml/badge.svg" />
+    <img alt="Profile summary cards workflow" src="https://img.shields.io/github/actions/workflow/status/anhtuan23004/anhtuan23004/profile-summary-cards.yml?branch=main&label=Profile%20Cards&style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1f2937" />
   </a>
   <a href="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/snake.yml">
-    <img alt="Snake workflow" src="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/snake.yml/badge.svg" />
+    <img alt="Snake workflow" src="https://img.shields.io/github/actions/workflow/status/anhtuan23004/anhtuan23004/snake.yml?branch=main&label=Contribution%20Graph&style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1f2937" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=anhtuan23004">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat-square" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=for-the-badge" />
   </a>
 </p>
 
+<p align="center">
+  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20AI-00F5D4?style=for-the-badge&labelColor=111827&logo=sparkles&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-9B5DE5?style=for-the-badge&labelColor=111827" />
+  <img alt="LLM Apps" src="https://img.shields.io/badge/LLM%20Apps-F15BB5?style=for-the-badge&labelColor=111827" />
+  <img alt="ML Systems" src="https://img.shields.io/badge/ML%20Systems-FEE440?style=for-the-badge&labelColor=111827&color=FEE440" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5D4&size=26&center=true&vCenter=true&width=900&height=60&lines=Building+agentic+systems+with+LLMs+and+tools;Designing+RAG+pipelines+that+ship;Turning+ML+ideas+into+usable+products" alt="Typing introduction" />
+</p>
+
+---
+
 ## About
 
-I build agentic AI systems that combine language models, retrieval, tools, and production-grade application layers. My current work focuses on LangGraph multi-agent workflows, RAG applications, structured web crawling, NLP systems, and practical ML deployment.
+I build agentic AI systems that combine language models, retrieval, tools, and production-grade application layers. My current work focuses on multi-agent workflows, RAG applications, structured web crawling, NLP systems, and practical ML deployment.
 
 ## Agentic Focus
 
@@ -94,13 +107,10 @@ Hanoi, Vietnam
   <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/2-most-commit-language.svg" width="320" alt="Most committed languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan23004&hide=html,tex&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1&langs_count=8&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&count_private=true&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1" alt="GitHub stats" />
-</p>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/3-stats.svg" width="320" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/4-productive-time.svg" width="320" alt="Productive time" />
+</p> -->
 
 ## Contribution Graph
 
@@ -129,5 +139,6 @@ Hanoi, Vietnam
 
 Open to collaboration on agentic AI, RAG systems, applied NLP, and production ML tooling.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/anhtuan23004)
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30" alt="Footer wave" />
+</p>
