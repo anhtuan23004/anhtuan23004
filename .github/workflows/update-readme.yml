@@ -2,20 +2,31 @@ name: Update README
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    - cron: "29 2 * * *"
+      timezone: "Asia/Ho_Chi_Minh"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-activity
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: ⚡ Update this repo's README with Recent Github Activity
+    name: Update profile README activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Update recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: ⚡ Update Github Profile README 
+          GH_USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: "chore: update README activity"
           MAX_LINES: 5

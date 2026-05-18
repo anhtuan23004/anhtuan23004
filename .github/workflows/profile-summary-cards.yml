@@ -1,29 +1,34 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub Profile Summary Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule:
+    - cron: "17 2 * * *"
+      timezone: "Asia/Ho_Chi_Minh"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    permissions:
-      contents: write
+    name: Generate profile summary cards
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # BRANCH_NAME is optional, default to main, branch name to push cards
           BRANCH_NAME: "main"
-          # UTC_OFFSET is optional, default to zero
-          UTC_OFFSET: 8 
-          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
+          UTC_OFFSET: 7
           EXCLUDE: ""
-          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
           AUTO_PUSH: true

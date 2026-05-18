@@ -1,248 +1,133 @@
 # Mai Anh Tuan
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=4cffc3&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Tuan.;Nice+to+meet+you)](https://github.com/anhtuan23004)
 
-[![GitHub](https://img.shields.io/badge/GitHub-anhtuan23004-181717?style=flat&logo=github)](https://github.com/anhtuan23004)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/anhtuan23004)
-[![Profile Views](https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat)](https://github.com/anhtuan23004)
-
----
-
-## 🧠 Professional Summary
-
-AI Engineer focused on Large Language Models (LLMs), RAG, and AI agents. Currently studying Information Technology at VNU University of Engineering and Technology (VNU-UET), I build end-to-end AI applications and scalable machine learning systems.
-
-<img align="left" alt="error solved" src="https://trynetsolutions.com/TS/b1.3.gif" >
-
-**Core Expertise:**
-- 🤖 Large Language Model development and fine-tuning
-- 🔍 Advanced RAG architectures and retrieval systems
-- 🛠️ Production-grade AI agent deployment
-- 📊 NLP applications
-- 💻 ML engineering (PyTorch, Hugging Face, Flask, Streamlit)
-
-**Portfolio Metrics:**
-- 📦 6 public repositories with focus on AI/ML
-- ⭐ Multiple starred projects in LLM and RAG domains
-- 🌏 Based in Hanoi, Vietnam (GMT+7)
-- 💼 Active contributor to open-source AI initiatives
-
----
-
-## 🛠️ Technical Proficiencies
-
-### AI/ML Frameworks & Technologies
-
-**Deep Learning & NLP:**
-- PyTorch, TensorFlow
-- Hugging Face Transformers (DistilBERT, GPT architectures)
-- LangChain, LlamaIndex
-- Vector databases and embeddings
-
-**Computer Vision:**
-- YOLOv8 object detection
-- OpenCV
-- Image processing pipelines
-
-**ML Operations:**
-- Flask, Streamlit (production deployment)
-- Model serving and API development
-- Batch processing systems
-
-### Programming Languages
-
-### AI/ML & Programming Stack
-
-**Languages & Core Frameworks**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-
-**Data Science & Machine Learning**
-<div align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-</div>
-
-**Tools & Infrastructure**
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-</div>
-
-**Databases & Vector Search**
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-00A9E0?style=flat&logo=milvus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-D32F2F?style=flat&logo=qdrant&logoColor=white" />
-</div>
-
-**Core Competencies:**
-- **AI/ML Development:** Python (primary), PyTorch, scikit-learn
-- **Systems Programming:** C, C++
-- **Object-Oriented Development:** Java
-- **Database Management:** MySQL, Vector DBs
-
-### Development Platforms
-
-<div align="left">
-  <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1" target="_blank" rel="noreferrer">
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/anhtuan23004">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=4cffc3&size=44&center=true&vCenter=true&width=900&height=80&lines=Agentic+AI+Engineer;Mai Anh Tuan" alt="Typing introduction" />
   </a>
-  <a href="https://leetcode.com/u/anhtuan234004/" target="_blank" rel="noreferrer">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anhtuan23004">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-anhtuan23004-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://www.kaggle.com/anhtuan23004" target="_blank" rel="noreferrer">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <a href="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/profile-summary-cards.yml">
+    <img alt="Profile summary cards workflow" src="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/profile-summary-cards.yml/badge.svg" />
   </a>
-</div>
+  <a href="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/snake.yml">
+    <img alt="Snake workflow" src="https://github.com/anhtuan23004/anhtuan23004/actions/workflows/snake.yml/badge.svg" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=anhtuan23004">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=anhtuan23004&color=69ffb4&style=flat-square" />
+  </a>
+</p>
 
----
+## About
 
-## 🚀 AI Projects
+I build agentic AI systems that combine language models, retrieval, tools, and production-grade application layers. My current work focuses on LangGraph multi-agent workflows, RAG applications, structured web crawling, NLP systems, and practical ML deployment.
 
-**Featured AI Applications**
+## Agentic Focus
 
-- **[DocuminChat](https://github.com/anhtuan23004/DocuminChat)** - RAG system for intelligent chat with PDF, JSON, and CSV documents using LangChain and vector embeddings.
-- **[SentimentScope](https://github.com/anhtuan23004/SentimentScope)** - Real-time sentiment analysis engine powered by DistilBERT and Flask for text and CSV analysis.
-- **[VisionServe](https://github.com/anhtuan23004/VisionServe)** - High-performance object detection system utilizing YOLOv8 to identify objects with bounding boxes and confidence scores.
-- **[MailGuard](https://github.com/anhtuan23004/MailGuard)** - Machine learning-based spam detection engine with advanced feature engineering, trained on Kaggle datasets.
+- Multi-agent workflow design with LangGraph and tool-using LLMs
+- Retrieval-Augmented Generation over documents, tabular data, and domain knowledge
+- Production AI application layers with Python, Flask, Streamlit, APIs, and data pipelines
+- NLP and classification systems using Hugging Face, DistilBERT, scikit-learn, and PyTorch
+- Applied ML systems for document processing, medical data crawling, object detection, and decision support
 
-> [!NOTE]
-> Additional software engineering projects—including C++ games (Tetris), Java utilities (Dictionary Project), and Data Structures implementations—are available in my [repositories](https://github.com/anhtuan23004?tab=repositories).
+## Education
 
----
+**VNU University of Engineering and Technology (VNU-UET)**<br>
+Bachelor's degree in Information Technology<br>
+Hanoi, Vietnam
 
-## 📝 Publications & Research Interests
+## Featured Work
 
-### Research Interests
-- Large Language Model optimization and fine-tuning
-- Retrieval-Augmented Generation architectures
-- Production deployment of AI agent systems
-- Multi-modal AI applications
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [Undergraduate-thesis-2026](https://github.com/anhtuan23004/Undergraduate-thesis-2026) | Agentic AI insurance claims processing with a LangGraph multi-agent architecture | Python, LangGraph, LLMs |
+| [CrawlMed](https://github.com/anhtuan23004/CrawlMed) | Structured crawler for pharmaceutical and medicine websites | Python, Crawl4AI, streaming crawlers |
+| [langgraph-agent-skill](https://github.com/anhtuan23004/langgraph-agent-skill) | Reusable LangGraph skill for stateful agent workflows and AI coding agents | LangGraph, Python, agent workflows |
+| [DocuminChat](https://github.com/anhtuan23004/DocuminChat) | Conversational RAG over CSV, XLSX, JSON, and PDF files | Streamlit, embeddings, LangChain |
+| [SentimentScope](https://github.com/anhtuan23004/SentimentScope) | Sentiment analysis for text and batch CSV input | Flask, DistilBERT, TextBlob |
+| [VisionServe](https://github.com/anhtuan23004/VisionServe) | Object detection web application with bounding boxes and confidence scores | Flask, YOLOv8, OpenCV |
 
-*Section available for future academic publications, conference presentations, and technical articles.*
+## Technical Stack
 
----
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-## 🎓 Education
+<p>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-D32F2F?style=flat-square&logo=qdrant&logoColor=white" />
+  <img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A9E0?style=flat-square&logo=milvus&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
 
-**VNU University of Engineering and Technology (VNU-UET)**  
-*Bachelor of Science in Information Technology*  
-Location: Hanoi, Vietnam  
-Status: Currently Enrolled
+## Current Direction
 
-**Academic Focus:**
-- Artificial Intelligence and Machine Learning
-- Deep Learning and Neural Networks
-- Natural Language Processing
-- Large Language Models
-- Retrieval-Augmented Generation
-- Data Structures and Algorithms
+- Building a LangGraph-based multi-agent thesis system for health insurance claim processing
+- Improving RAG quality through better chunking, retrieval evaluation, and tool routing
+- Turning repeatable agent patterns into reusable skills, templates, and production-ready workflows
+- Expanding practical ML projects from notebooks into deployable applications
 
-**Competitive Programming:**
-- Active participant on HackerRank and LeetCode platforms
-- Kaggle competition contributor
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-**Repository Portfolio:**
-- 📜 19 Public Repositories
-- ⭐ Multiple starred AI/ML projects
-- 🔄 Active development and contributions
-
-</div>
-
-**Development Activity:**
+## GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/1-repos-per-language.svg" width="300" />
-  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/2-most-commit-language.svg" width="300" />
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" />
 </p>
-
-**Language Distribution:**
-
-<a href="https://github.com/anhtuan23004">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan23004&hide=html,tex&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1&langs_count=6&layout=compact" alt="Top Languages" />
-</a>
-
-**GitHub Metrics:**
-
-<a href="https://github.com/anhtuan23004">
-  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&line_height=27&count_private=true&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1" alt="GitHub Stats" />
-</a>
-
----
-
-## 📩 Contact Information
-
-**Primary Contact Methods:**
-
-<div align="left">
-  <a href="https://www.github.com/anhtuan23004" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" title="GitHub" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/mai.tuan.39948856" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" title="Facebook" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ahtuan2304_/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" title="Instagram" alt="Instagram"/>
-  </a>
-</div>
-
-**Professional Profiles:**
-- 💼 GitHub: [@anhtuan23004](https://github.com/anhtuan23004)
-- 🏆 HackerRank: [anhtuan234004](https://www.hackerrank.com/anhtuan234004?hr_r=1)
-- 📍 Location: Hanoi, Vietnam
-- ⏰ Time Zone: Indochina Time (ICT, UTC+7)
-
----
-
-<div align="center">
-
-### Engagement Metrics
-
-[![Followers](https://img.shields.io/github/followers/anhtuan23004?logo=github&style=flat-square&color=3498db&labelColor=2c3e50)](https://github.com/anhtuan23004)
-[![Last Commit](https://img.shields.io/github/last-commit/anhtuan23004/anhtuan23004?style=flat-square&color=3498db&labelColor=2c3e50)](https://github.com/anhtuan23004/anhtuan23004/commits)
-
-<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/1-repos-per-language.svg" width="320" alt="Repositories per language" />
+  <img src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/main/profile-summary-card-output/default/2-most-commit-language.svg" width="320" alt="Most committed languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan23004&hide=html,tex&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1&langs_count=8&layout=compact" alt="Top languages" />
+</p>
 
-*Open to collaboration opportunities in AI/ML research and production systems.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan23004&show_icons=true&count_private=true&title_color=2c3e50&text_color=34495e&icon_color=3498db&bg_color=ecf0f1" alt="GitHub stats" />
+</p>
 
-**Areas of Interest:**
-- Fine-tuning LLMs
-- RAG system design
-- AI agents
-- Multi-modal AI
-- Production ML
+## Contribution Graph
 
-**Support This Work:**  
-Contributions, issues, and feature requests are welcome following the [GitHub Flow](https://guides.github.com/introduction/flow).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/anhtuan23004/anhtuan23004/output/github-snake.svg" />
+</picture>
+
+## Connect
+
+<p>
+  <a href="https://github.com/anhtuan23004">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-anhtuan23004-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.kaggle.com/anhtuan23004">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-anhtuan23004-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anhtuan234004/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-anhtuan234004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/anhtuan234004?hr_r=1">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-anhtuan234004-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+Open to collaboration on agentic AI, RAG systems, applied NLP, and production ML tooling.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c154c1&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/anhtuan23004)
 </div>
