@@ -56,7 +56,7 @@ Hanoi, Vietnam
 
 | Project | Focus | Stack |
 | --- | --- | --- |
-| [Undergraduate-thesis-2026](https://github.com/anhtuan23004/Undergraduate-thesis-2026) | Agentic AI insurance claims processing with a LangGraph multi-agent architecture | Python, LangGraph, LLMs |
+| [Agentic-AI-Insurance-Claims](https://github.com/anhtuan23004/Agentic-AI-Insurance-Claims.git) | Agentic AI insurance claims processing with a LangGraph multi-agent architecture | Python, LangGraph, LLMs |
 | [LocalLLM](https://github.com/anhtuan23004/LocalLLM) | Local LLM infrastructure for serving, fine-tuning, evaluation, and observability | Docker, Ollama, vLLM, Unsloth |
 | [CrawlMed](https://github.com/anhtuan23004/CrawlMed) | Structured crawler for pharmaceutical and medicine websites | Python, Crawl4AI, streaming crawlers |
 | [langgraph-agent-skill](https://github.com/anhtuan23004/langgraph-agent-skill) | Reusable LangGraph skill for stateful agent workflows and AI coding agents | LangGraph, Python, agent workflows |
