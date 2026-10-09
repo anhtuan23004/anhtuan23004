@@ -234,3 +234,48 @@ h1 { margin: 22px 0 27px; font-size: clamp(84px, 10.8vw, 150px); line-height: .8
 }
 @media (max-width: 380px) { .system-art { height: 418px; }.scene-legend button { padding-inline: 7px; } }
 @media (prefers-reduced-motion: reduce) { .scene-canvas { transition: none; }.contact-glow { transform: none; } }
+/* Theme control stays accessible beside the mobile menu. */
+:root { color-scheme: light; }
+.theme-toggle { order: 3; display: grid; place-items: center; flex-shrink: 0; width: 34px; height: 34px; margin-left: 20px; padding: 8px; border: 1px solid var(--line); border-radius: 50%; color: var(--ink); background: transparent; transition: background .2s, border-color .2s; }
+.theme-toggle:hover { background: #81729616; border-color: var(--accent); }
+.theme-toggle svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.theme-sun { display: none; }
+.site-header .wordmark { order: 1; margin-right: auto; }
+.site-nav { order: 2; }
+.menu-toggle { order: 4; }
+body { transition: background-color .25s, color .25s; }
+:root[data-theme="dark"] { color-scheme: dark; --paper: #171a1b; --ink: #eeece5; --muted: #959c94; --line: #3e4546; --accent: #b69ce9; }
+[data-theme="dark"] .theme-moon { display: none; }
+[data-theme="dark"] .theme-sun { display: block; }
+[data-theme="dark"] .site-header { background: #171a1bf2; }
+[data-theme="dark"] .dark-section { --paper: #eeece5; --ink: #242521; background: #111516; }
+[data-theme="dark"] .hero-top, [data-theme="dark"] .hero-copy > .eyebrow, [data-theme="dark"] .hero-bottom, [data-theme="dark"] .section-label { color: #aeb6ac; }
+[data-theme="dark"] .hero-intro { color: #a3ada2; }
+[data-theme="dark"] .about-copy > p:not(.lead), [data-theme="dark"] .section-heading > p, [data-theme="dark"] .approach-content > p, [data-theme="dark"] .approach-content ul { color: #b3bcb0; }
+[data-theme="dark"] .about-foot, [data-theme="dark"] .summary-note, [data-theme="dark"] .approach-item summary > .mono { color: #a1ad99; }
+[data-theme="dark"] .mini-flow span { border-color: #655c75; }
+[data-theme="dark"] .toolkit-section { background: #202628; }
+[data-theme="dark"] .cloud-card { border-color: #515c53; }
+[data-theme="dark"] .cloud-title, [data-theme="dark"] .cloud-card p, [data-theme="dark"] .toolkit-list dd, [data-theme="dark"] .education > .eyebrow, [data-theme="dark"] .education p, [data-theme="dark"] .education-mark { color: #b0bbaa; }
+[data-theme="dark"] .cloud-services span, [data-theme="dark"] .toolkit-list > div { border-color: #46524a; }
+[data-theme="dark"] .aws-symbol { color: #e0af71; }
+[data-theme="dark"] .gcp-symbol { color: #b59cde; }
+[data-theme="dark"] .site-footer > .mono { color: #aab6a3; }
+[data-theme="dark"] .study-dialog { border-color: #566050; }
+[data-theme="dark"] .dialog-top, [data-theme="dark"] .study-dialog .lead, [data-theme="dark"] .study-block p, [data-theme="dark"] .study-block ul { color: #b9c4b2; }
+[data-theme="dark"] .dialog-close { border-color: #626c5c; }
+[data-theme="dark"] .system-art { border-color: #51495f; background: radial-gradient(ellipse at 52% 44%, #443359 0%, #2b2636 42%, #171a1b00 80%); }
+[data-theme="dark"] .art-top, [data-theme="dark"] .art-bottom, [data-theme="dark"] .art-cross { color: #c0b1d0; }
+[data-theme="dark"] .layer-product, [data-theme="dark"] .layer-agent { color: #242521; }
+[data-theme="dark"] .scene-toggle { background: #29242e85; color: #cab9de; }
+[data-theme="dark"] .scene-legend button { color: #b9aacb; }
+[data-theme="dark"] .scene-legend button[aria-pressed="true"] { background: #4c3d60b8; border-color: #af94d4; color: #f2e8ff; }
+[data-theme="dark"] .scene-legend button:hover { color: #f2e8ff; background: #4c3d6080; }
+[data-theme="dark"] .scene-description { color: #c2b0d4; }
+[data-theme="dark"] .button-dark:hover { background: #c9bddb; }
+[data-theme="dark"] .skip-link { background: #eeece5; color: #171a1b; }
+@media (max-width: 760px) {
+  .theme-toggle { order: 2; margin-left: 12px; width: 34px; height: 34px; }
+  .menu-toggle { order: 3; }
+  .site-nav { order: 4; }
+}

@@ -1,5 +1,29 @@
 document.body.classList.add('js-enabled');
 
+const themeButton = document.querySelector('.theme-toggle');
+const systemTheme = window.matchMedia('(prefers-color-scheme: dark)');
+let themeChosen = false;
+try { themeChosen = ['light', 'dark'].includes(localStorage.getItem('mat-theme')); } catch {}
+const applyTheme = theme => {
+  document.documentElement.dataset.theme = theme;
+  const dark = theme === 'dark';
+  themeButton.setAttribute('aria-pressed', String(dark));
+  themeButton.setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
+  themeButton.title = dark ? 'Switch to light theme' : 'Switch to dark theme';
+  document.querySelector('meta[name="theme-color"]').content = dark ? '#171a1b' : '#eeece5';
+};
+applyTheme(document.documentElement.dataset.theme || (systemTheme.matches ? 'dark' : 'light'));
+themeButton.hidden = false;
+themeButton.addEventListener('click', () => {
+  const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+  themeChosen = true;
+  try { localStorage.setItem('mat-theme', next); } catch {}
+  applyTheme(next);
+});
+systemTheme.addEventListener('change', event => {
+  if (!themeChosen) applyTheme(event.matches ? 'dark' : 'light');
+});
+
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('.site-nav');
 const closeMenu = () => {
