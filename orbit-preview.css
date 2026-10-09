@@ -1,0 +1,63 @@
+/* The selected glass composition follows the portfolio's persisted theme. */
+.orbit-study {
+  --orbit-bg: #dfe8eb;
+  --orbit-border: #b8c9cf;
+  --orbit-text: #203f4e;
+  --orbit-muted: #546e7c;
+  --orbit-fill: #ffffff35;
+  --orbit-shine: #ffffffad;
+  --orbit-edge: #ffffffb0;
+  --orbit-highlight: #ffffff;
+  --orbit-hover-fill: #e4f5fa70;
+  --orbit-hover-edge: #728e9a;
+  --orbit-shadow: #4f687914;
+}
+[data-theme="dark"] .orbit-study {
+  --orbit-bg: #14242d;
+  --orbit-border: #55778470;
+  --orbit-text: #e2f3f8;
+  --orbit-muted: #a0c0ce;
+  --orbit-fill: #19313e80;
+  --orbit-shine: #d8f2ff14;
+  --orbit-edge: #a4d5e338;
+  --orbit-highlight: #e0f6ff30;
+  --orbit-hover-fill: #27505f90;
+  --orbit-hover-edge: #b2dcebbb;
+  --orbit-shadow: #00000025;
+}
+:root .orbit-study .system-art { background: var(--orbit-bg); border-color: var(--orbit-border); border-radius: 20px; box-shadow: inset 0 1px 0 var(--orbit-highlight),0 24px 60px var(--orbit-shadow); }
+:root .orbit-study .system-art :is(.art-top,.art-bottom) { color: var(--orbit-muted); }
+.orbit-study .system-art .scene-canvas,
+.orbit-study .system-art.is-exploring .scene-canvas { inset: 48px 0 124px; }
+.orbit-study .system-art .scene-interface { inset: 0; pointer-events: none; }
+.orbit-study .system-art .scene-welcome { position: absolute; bottom: 17px; left: 20px; right: 20px; }
+:root .orbit-study .system-art .scene-welcome h2 { font-size: 21px; font-weight: 500; letter-spacing: -.7px; color: var(--orbit-text); }
+:root .orbit-study .system-art .scene-description { margin: 6px auto 0; color: var(--orbit-muted); }
+.orbit-study .architecture-portals { display: block; position: absolute; inset: 48px 0 124px; }
+:root .orbit-study .architecture-link { position: absolute; width: 112px; min-height: 59px; padding: 10px 13px; transform: translate(-50%,-50%); pointer-events: auto; border-radius: 14px; backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); background: linear-gradient(145deg,var(--orbit-shine),var(--orbit-fill)); color: var(--orbit-text); border-color: var(--orbit-edge); box-shadow: inset 0 1px 0 var(--orbit-highlight),0 8px 24px var(--orbit-shadow); transition: background .2s,border-color .2s,box-shadow .2s; }
+:root .orbit-study .architecture-link strong { font-size: 16px; font-weight: 500; color: var(--orbit-text); }
+:root .orbit-study .architecture-link i { font-size: 15px; color: var(--orbit-text); }
+:root .orbit-study .architecture-link span { font-size: 6px; letter-spacing: 1px; color: var(--orbit-muted); }
+:root .orbit-study .architecture-link:is(:hover,:focus-visible,.is-active) { background: linear-gradient(145deg,var(--orbit-shine),var(--orbit-hover-fill)); border-color: var(--orbit-hover-edge); box-shadow: inset 0 1px 0 var(--orbit-highlight),0 0 24px var(--orbit-shadow); }
+.orbit-study [data-layer="3"].architecture-link { left: 75%; top: 32%; }
+.orbit-study [data-layer="2"].architecture-link { left: 30%; top: 20%; }
+.orbit-study [data-layer="1"].architecture-link { left: 25%; top: 68%; }
+.orbit-study [data-layer="0"].architecture-link { left: 70%; top: 80%; }
+.orbit-fallback { position: absolute; inset: 80px 20px 140px; display: grid; place-items: center; }
+.orbit-fallback i { width: 170px; aspect-ratio: 1; border-radius: 50%; background: conic-gradient(from 30deg,var(--orbit-shine),var(--orbit-fill),var(--orbit-highlight),var(--orbit-fill),var(--orbit-shine)); border: 1px solid var(--orbit-border); box-shadow: inset -12px -10px 22px var(--orbit-shadow),inset 10px 8px 20px var(--orbit-highlight); }
+.orbit-fallback b { position: absolute; width: 85%; height: 50%; border: 2px solid var(--orbit-border); border-radius: 50%; transform: rotate(-30deg); }
+.scene-ready .orbit-fallback { display: none; }
+.orbit-study .system-art.is-opening .scene-interface { transform: none; }
+.orbit-study .orbit-hold { pointer-events: auto; margin-top: 12px; padding: 4px 8px; border: 0; background: none; color: var(--orbit-muted); font-size: 8px; letter-spacing: 1px; cursor: grab; }
+.orbit-study .orbit-hold span { margin-left: 5px; }
+.orbit-study .orbit-hold:focus-visible { outline: 2px solid var(--orbit-text); outline-offset: 3px; border-radius: 4px; }
+.orbit-study .orbit-hold:disabled { opacity: .5; cursor: default; }
+.orbit-study .is-glass-held :is(canvas,.orbit-hold) { cursor: grabbing; }
+.orbit-study .scene-canvas canvas { touch-action: pan-y; }
+@media(max-width:600px) {
+  :root .orbit-study .architecture-link { width: 97px; padding-inline: 10px; }
+  :root .orbit-study .architecture-link strong { font-size: 14px; }
+}
+@media(prefers-reduced-transparency:reduce),(prefers-contrast:more) {
+  :root .orbit-study .architecture-link { background: var(--orbit-bg); border-color: var(--orbit-muted); backdrop-filter: none; -webkit-backdrop-filter: none; }
+}

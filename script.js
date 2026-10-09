@@ -213,19 +213,77 @@ if ('IntersectionObserver' in window) {
 
 // Load the locally hosted renderer only when the hero approaches the viewport.
 const sceneHost = document.querySelector('.system-art');
-let disposeScene;
+// Each discipline is a real link. Hover previews its plate without navigation.
+const architectureLinks = [...sceneHost.querySelectorAll('[data-layer]')];
+let architectureNavigating = false;
+let architectureNavigationTimer;
+const previewArchitecture = index => {
+  if (architectureNavigating) return;
+  sceneHost.dataset.layer = String(index);
+  sceneHost.classList.toggle('is-exploring', index >= 0);
+  architectureLinks.forEach(link => link.classList.toggle('is-active', Number(link.dataset.layer) === index));
+  sceneHost.dispatchEvent(new CustomEvent('architecture-view-change', { detail: index }));
+};
+architectureLinks.forEach(link => {
+  link.addEventListener('click', event => {
+    // Preserve normal browser behavior for new tabs and modified clicks.
+    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target === '_blank') return;
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    event.preventDefault();
+    if (architectureNavigating) return;
+    const destination = new URL(link.href);
+    previewArchitecture(Number(link.dataset.layer));
+    architectureNavigating = true;
+    sceneHost.dataset.opening = 'true';
+    sceneHost.classList.add('is-opening');
+    document.body.classList.add('architecture-departing');
+    sceneHost.setAttribute('aria-busy', 'true');
+    try {
+      sessionStorage.setItem('mat-architecture-entry', JSON.stringify({ path: destination.pathname, time: Date.now() }));
+    } catch {}
+    sceneHost.dispatchEvent(new CustomEvent('architecture-view-change', { detail: Number(link.dataset.layer) }));
+    architectureNavigationTimer = setTimeout(() => location.assign(destination.href), 420);
+  });
+  link.addEventListener('pointerenter', event => {
+    if (event.pointerType !== 'touch') previewArchitecture(Number(link.dataset.layer));
+  });
+  link.addEventListener('pointerleave', () => {
+    if (document.activeElement !== link) previewArchitecture(-1);
+  });
+  link.addEventListener('focus', () => previewArchitecture(Number(link.dataset.layer)));
+  link.addEventListener('blur', () => previewArchitecture(-1));
+});
+const resetArchitectureNavigation = () => {
+  clearTimeout(architectureNavigationTimer);
+  architectureNavigating = false;
+  delete sceneHost.dataset.opening;
+  sceneHost.classList.remove('is-opening');
+  document.body.classList.remove('architecture-departing');
+  sceneHost.removeAttribute('aria-busy');
+  previewArchitecture(-1);
+};
+window.addEventListener('pageshow', event => {
+  if (event.persisted) resetArchitectureNavigation();
+});
+sceneHost.addEventListener('keydown', event => {
+  if (event.key === 'Escape' && architectureNavigating) {
+    resetArchitectureNavigation();
+    try { sessionStorage.removeItem('mat-architecture-entry'); } catch {}
+  }
+});
+sceneHost.dataset.layer = '-1';
 let sceneLoading = false;
 const loadScene = async () => {
   if (sceneLoading) return;
   sceneLoading = true;
   try {
-    const { mountScene } = await import('./scene.js');
-    disposeScene = mountScene(sceneHost);
+    const { mountScene } = await import(sceneHost.dataset.scene === 'orbit' ? './orbit-scene.js' : './scene.js');
+    mountScene(sceneHost);
   } catch {
     // CSS artwork remains visible if the optional renderer cannot initialize.
     sceneHost.classList.remove('scene-ready');
-    sceneHost.querySelector('.scene-interface').hidden = true;
-    sceneHost.querySelector('.scene-toggle').hidden = true;
+    const motionToggle = sceneHost.querySelector('.scene-toggle');
+    if (motionToggle) motionToggle.hidden = true;
     sceneHost.querySelector('.scene-canvas').replaceChildren();
     sceneHost.dataset.sceneState = 'fallback';
   }
@@ -240,9 +298,8 @@ if ('IntersectionObserver' in window) {
 } else {
   loadScene();
 }
-window.addEventListener('pagehide', event => {
-  if (!event.persisted) disposeScene?.();
-});
+// Keep the canvas intact for the outgoing page snapshot. The browser releases
+// resources when it destroys the document; cached pages retain their scene.
 
 const allowPointerMotion = () => !window.matchMedia('(prefers-reduced-motion: reduce)').matches && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 document.querySelectorAll('.project-visual').forEach(visual => {

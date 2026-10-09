@@ -20,9 +20,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="orbit-preview.css" />
   <script src="script.js" defer></script>
 </head>
-<body>
+<body class="orbit-study">
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="scroll-progress" aria-hidden="true"></div>
   <header class="site-header">
@@ -48,21 +49,24 @@
           <p class="hero-intro">I connect the dots between<br /><strong>AI possibility and practical systems.</strong></p>
           <div class="hero-actions"><a class="button button-dark" href="#work">Explore my work <span aria-hidden="true">↘</span></a><a class="text-link" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a></div>
         </div>
-        <div class="system-art" role="group" aria-label="AI architecture: product, agents, models and cloud">
-          <div class="art-top mono"><span>ANATOMY OF AN AI SYSTEM</span><button class="scene-toggle" type="button" aria-pressed="false" aria-label="Pause 3D animation" hidden><span aria-hidden="true">Ⅱ</span> PAUSE</button></div>
+        <div class="system-art" data-scene="orbit" role="group" aria-label="AI architecture: product, agents, models and cloud">
+          <div class="art-top mono"><span>ANATOMY OF AN AI SYSTEM</span></div>
           <div class="scene-canvas" aria-hidden="true"></div>
-          <div class="system-stack" aria-hidden="true">
-            <div class="stack-layer layer-foundation"><span>04 / FOUNDATION</span><strong>Cloud &amp; observability</strong><i>⌘</i></div>
-            <div class="stack-layer layer-model"><span>03 / INTELLIGENCE</span><strong>Models &amp; retrieval</strong><i>✳</i></div>
-            <div class="stack-layer layer-agent"><span>02 / ORCHESTRATION</span><strong>Agents &amp; tools</strong><i>↗</i></div>
-            <div class="stack-layer layer-product"><span>01 / EXPERIENCE</span><strong>Product &amp; workflow</strong><i>◎</i></div>
+          <div class="orbit-fallback" aria-hidden="true"><i></i><b></b></div>
+          <div class="scene-interface">
+            <div class="scene-welcome">
+              <h2>Intelligence. Reassembled.</h2>
+              <p class="scene-description">Independent disciplines. One coherent system.</p>
+              <button class="orbit-hold mono" type="button" hidden aria-label="Hold to separate glass fragments; release to reassemble">HOLD TO FRAGMENT <span aria-hidden="true">↔</span></button>
+            </div>
+            <nav class="architecture-portals" aria-label="Explore my architecture disciplines">
+              <a class="architecture-link" data-layer="3" href="architecture/product.html"><span class="mono">01 / EXPERIENCE</span><strong>Product</strong><i aria-hidden="true">↗</i></a>
+              <a class="architecture-link" data-layer="2" href="architecture/agents.html"><span class="mono">02 / ORCHESTRATION</span><strong>Agents</strong><i aria-hidden="true">↗</i></a>
+              <a class="architecture-link" data-layer="1" href="architecture/models.html"><span class="mono">03 / INTELLIGENCE</span><strong>Models</strong><i aria-hidden="true">↗</i></a>
+              <a class="architecture-link" data-layer="0" href="architecture/cloud.html"><span class="mono">04 / FOUNDATION</span><strong>Cloud</strong><i aria-hidden="true">↗</i></a>
+            </nav>
           </div>
-          <span class="art-cross cross-a" aria-hidden="true">+</span><span class="art-cross cross-b" aria-hidden="true">+</span>
-          <div class="scene-interface" hidden>
-            <div class="scene-legend" role="group" aria-label="Explore architecture layers"><button type="button" data-layer="3" aria-pressed="false"><i class="layer-dot dot-product"></i>Product</button><button type="button" data-layer="2" aria-pressed="true"><i class="layer-dot dot-agent"></i>Agents</button><button type="button" data-layer="1" aria-pressed="false"><i class="layer-dot dot-model"></i>Models</button><button type="button" data-layer="0" aria-pressed="false"><i class="layer-dot dot-cloud"></i>Cloud</button></div>
-            <p class="scene-description" role="status" aria-live="polite">Connect models, retrieval, and tools into a purposeful workflow.</p>
-          </div>
-          <div class="art-bottom mono"><span>THOUGHTFULLY CONNECTED.</span><span class="art-signal"><i></i><i></i><i></i><i></i></span></div>
+          <div class="art-bottom mono"><span>ORBIT STUDY / 03</span><span class="art-signal"><i></i><i></i><i></i><i></i></span></div>
         </div>
       </div>
       <div class="hero-bottom mono"><span>AGENTIC AI · RETRIEVAL · MULTIMODAL · CLOUD</span><a href="#about">SCROLL TO DISCOVER <span aria-hidden="true">↓</span></a></div>
@@ -83,7 +87,7 @@
         <div class="work-toolbar"><div class="filters" role="group" aria-label="Filter projects"><button class="filter active" type="button" data-filter="all" aria-pressed="true">All work <span>06</span></button><button class="filter" type="button" data-filter="agents" aria-pressed="false">Agents &amp; RAG <span>03</span></button><button class="filter" type="button" data-filter="ml" aria-pressed="false">ML systems <span>03</span></button></div><span id="project-count" class="mono" role="status" aria-live="polite">6 projects</span></div>
 
         <div class="project-grid">
-          <article class="project-card featured" data-category="agents">
+          <article class="project-card featured" id="project-claims" data-category="agents">
             <div class="project-visual claims-visual" role="img" aria-label="Conceptual claim validation flow from intake to routing, validation and human review">
               <div class="visual-caption mono"><span>AGENTIC SYSTEM / 01</span><span>ARCHITECTURE SKETCH</span></div>
               <div class="claims-diagram" aria-hidden="true"><div class="claim-input"><span>INPUT</span><strong>Insurance claim</strong><b>↧</b></div><div class="claim-router">Route &amp; validate <span>↗</span></div><div class="claim-branches"><span>ICD-10 lookup</span><span>Human review</span></div><div class="claim-result"><i></i> Structured decision</div></div>
@@ -91,7 +95,7 @@
             </div>
             <div class="project-info"><p class="eyebrow">AGENTIC AI / DECISION WORKFLOWS</p><h3>Insurance Claims<br />Orchestration</h3><p>Bringing structure to a complex validation workflow, with deterministic routing, domain lookups, and human review.</p><div class="tags"><span>LangGraph</span><span>MCP</span><span>Langfuse</span><span>FastAPI</span></div><div class="project-links"><button class="text-link study-trigger" type="button" data-study="claims">Explore the system <span aria-hidden="true">↗</span></button><a href="https://github.com/anhtuan23004/Agentic-AI-Insurance-Claims" target="_blank" rel="noreferrer" aria-label="Insurance Claims source on GitHub">Source ↗</a></div></div>
           </article>
-          <article class="project-card" data-category="agents">
+          <article class="project-card" id="project-docs" data-category="agents">
             <div class="project-visual docs-visual" role="img" aria-label="Documents connected to a retrieval pipeline">
               <div class="visual-caption mono"><span>RETRIEVAL SYSTEM / 02</span><span>DOCUMINCHAT</span></div>
               <div class="documents" aria-hidden="true"><div class="document doc-back"><span>XLSX</span><i></i><i></i><i></i></div><div class="document doc-middle"><span>JSON</span><i></i><i></i><i></i></div><div class="document doc-front"><span>PDF</span><strong>Knowledge,<br />connected.</strong><i></i><i></i></div><div class="retrieval-chip">RETRIEVE → RESPOND</div></div>
