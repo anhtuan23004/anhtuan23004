@@ -1,86 +1,131 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#10110f" />
-    <meta name="description" content="Mai Anh Tuan is an AI Solution Architect and Engineer designing and building production-minded agentic AI, RAG, and cloud AI systems on AWS and GCP." />
-    <title>Mai Anh Tuan — AI Solution Architect &amp; Engineer</title>
-    <link rel="icon" type="image/png" sizes="360x360" href="/assets/monkey-favicon.png" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css" />
-    <script src="script.js" defer></script>
-  </head>
-  <body>
-    <div class="grain" aria-hidden="true"></div>
-    <header class="site-header">
-      <a class="wordmark" href="#top" aria-label="Mai Anh Tuan, home">MAT<span>.</span></a>
-      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation"><span></span><span></span></button>
-      <nav id="site-nav" class="site-nav" aria-label="Main navigation">
-        <a href="#work">Work</a><a href="#about">About</a><a href="#toolkit">Toolkit</a>
-        <a class="nav-contact" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">Let’s talk <span>↗</span></a>
-      </nav>
-    </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#eeece5" />
+  <meta name="description" content="Mai Anh Tuan — AI Solution Architect & AI Engineer. Agentic systems, RAG, vision-language models, and cloud AI on AWS and Google Cloud." />
+  <title>Mai Anh Tuan — AI Solution Architect & Engineer</title>
+  <link rel="icon" type="image/png" sizes="360x360" href="assets/monkey-favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Mai Anh Tuan, home"><span class="brand-symbol" aria-hidden="true">m.</span> MAI ANH TUAN</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu <span aria-hidden="true">+</span></button>
+    <nav id="site-nav" class="site-nav" aria-label="Main navigation">
+      <a href="#about">About</a><a href="#work">Work</a><a href="#approach">Approach</a><a href="#toolkit">Toolkit</a>
+      <a class="nav-contact" href="#contact">Let’s connect <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
 
-    <main id="top">
-      <section class="hero wrap">
+  <main id="main">
+    <section class="hero wrap" id="top" aria-labelledby="hero-title">
+      <div class="hero-top mono"><span><i class="status-dot"></i> OPEN TO COLLABORATION</span><span>BASED IN HANOI, VIETNAM <span class="local-time" aria-hidden="true"></span></span></div>
+      <div class="hero-grid">
         <div class="hero-copy">
-          <p class="eyebrow"><span class="status-dot"></span> AI SOLUTION ARCHITECT &amp; ENGINEER <span class="eyebrow-divider">/</span> HANOI, VIETNAM</p>
-          <h1>AI solutions,<br /><em>built to work.</em></h1>
-          <p class="hero-intro">I design end-to-end AI systems and engineer them into dependable products — from agentic workflows and RAG to cloud-native ML infrastructure.</p>
-          <div class="hero-actions"><a class="button button-primary" href="#work">Explore selected work <span>↓</span></a><a class="text-link" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">GitHub <span>↗</span></a></div>
-          <div class="hero-meta"><span>FOCUS</span><p>Agentic systems · RAG · VLMs</p><span>SCROLL TO EXPLORE <b>↓</b></span></div>
+          <p class="eyebrow">AI SOLUTION ARCHITECT &amp; AI ENGINEER</p>
+          <h1 id="hero-title">MAI ANH<br />TUAN<span class="accent">.</span></h1>
+          <p class="hero-intro">I connect the dots between<br /><strong>AI possibility and practical systems.</strong></p>
+          <div class="hero-actions"><a class="button button-dark" href="#work">Explore my work <span aria-hidden="true">↘</span></a><a class="text-link" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a></div>
         </div>
-        <div class="hero-art" aria-label="Abstract illustration of connected AI systems" role="img">
-          <div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div><div class="art-orbit orbit-three"></div>
-          <div class="art-cross cross-one"></div><div class="art-cross cross-two"></div>
-          <div class="art-core"><span class="core-spark">✳</span><span class="core-label">INTELLIGENCE<br />IN MOTION</span></div>
-          <div class="art-node node-a"><span>01</span>REASON</div><div class="art-node node-b"><span>02</span>RETRIEVE</div><div class="art-node node-c"><span>03</span>ACT</div>
-          <div class="art-caption">SYSTEMS THAT THINK<br />AND SHIP <span>↗</span></div>
-          <div class="art-index">FIG. 01 — AGENT LOOP</div>
+        <div class="system-art" role="group" aria-label="AI architecture: product, agents, models and cloud">
+          <div class="art-top mono"><span>ANATOMY OF AN AI SYSTEM</span><button class="scene-toggle" type="button" aria-pressed="false" aria-label="Pause 3D animation" hidden><span aria-hidden="true">Ⅱ</span> PAUSE</button></div>
+          <div class="scene-canvas" aria-hidden="true"></div>
+          <div class="system-stack" aria-hidden="true">
+            <div class="stack-layer layer-foundation"><span>04 / FOUNDATION</span><strong>Cloud &amp; observability</strong><i>⌘</i></div>
+            <div class="stack-layer layer-model"><span>03 / INTELLIGENCE</span><strong>Models &amp; retrieval</strong><i>✳</i></div>
+            <div class="stack-layer layer-agent"><span>02 / ORCHESTRATION</span><strong>Agents &amp; tools</strong><i>↗</i></div>
+            <div class="stack-layer layer-product"><span>01 / EXPERIENCE</span><strong>Product &amp; workflow</strong><i>◎</i></div>
+          </div>
+          <span class="art-cross cross-a" aria-hidden="true">+</span><span class="art-cross cross-b" aria-hidden="true">+</span>
+          <div class="scene-interface" hidden>
+            <div class="scene-legend" role="group" aria-label="Explore architecture layers"><button type="button" data-layer="3" aria-pressed="false"><i class="layer-dot dot-product"></i>Product</button><button type="button" data-layer="2" aria-pressed="true"><i class="layer-dot dot-agent"></i>Agents</button><button type="button" data-layer="1" aria-pressed="false"><i class="layer-dot dot-model"></i>Models</button><button type="button" data-layer="0" aria-pressed="false"><i class="layer-dot dot-cloud"></i>Cloud</button></div>
+            <p class="scene-description" role="status" aria-live="polite">Connect models, retrieval, and tools into a purposeful workflow.</p>
+          </div>
+          <div class="art-bottom mono"><span>THOUGHTFULLY CONNECTED.</span><span class="art-signal"><i></i><i></i><i></i><i></i></span></div>
         </div>
-        <div class="hero-bottom-line"></div>
-      </section>
+      </div>
+      <div class="hero-bottom mono"><span>AGENTIC AI · RETRIEVAL · MULTIMODAL · CLOUD</span><a href="#about">SCROLL TO DISCOVER <span aria-hidden="true">↓</span></a></div>
+    </section>
 
-      <section class="work-section wrap section-pad" id="work">
-        <div class="section-heading"><div><p class="eyebrow">01 / SELECTED WORK</p><h2>Built for the<br /><em>real world.</em></h2></div><p class="section-note">A selection of systems and tools exploring how applied AI can solve meaningful operational problems.</p></div>
-        <div class="filters" role="group" aria-label="Filter projects"><button class="filter active" data-filter="all">All work <span>06</span></button><button class="filter" data-filter="agents">Agents &amp; RAG <span>03</span></button><button class="filter" data-filter="ml">ML systems <span>03</span></button></div>
+    <section class="about-section wrap section-space" id="about" aria-labelledby="about-title">
+      <div class="section-label"><span class="eyebrow">01 / THE WAY I THINK</span><span class="mono">ARCHITECTURE MEETS ENGINEERING</span></div>
+      <div class="about-grid">
+        <h2 class="display-title" id="about-title">MAKE IT<br />INTELLIGENT.<br /><span class="muted">MAKE IT<br />DEPENDABLE.</span></h2>
+        <div class="about-copy"><p class="lead">A model is a starting point.<br />The whole system makes it useful.</p><p>I’m an AI Solution Architect and Engineer working across the journey from a complex operational problem to an AI system people can use.</p><p>I bring together agent workflows, retrieval, vision-language models, and cloud infrastructure. My focus is on the decisions around the model: how data flows, where people stay in control, and how we know the system works.</p><div class="about-foot mono"><span>MY WORKING PRINCIPLE</span><strong>Clarity in design. Care in delivery.</strong></div></div>
+      </div>
+    </section>
+
+    <section class="work-section dark-section" id="work" aria-labelledby="work-title">
+      <div class="wrap section-space">
+        <div class="section-label"><span class="eyebrow">02 / SELECTED WORK</span><span class="mono">IDEAS, MADE TANGIBLE.</span></div>
+        <div class="section-heading"><h2 class="display-title" id="work-title">SYSTEMS WITH<br /><span class="muted">A PURPOSE.</span></h2><p>Explorations in applied AI —<br />from orchestrating decisions<br />to making knowledge accessible.</p></div>
+        <div class="work-toolbar"><div class="filters" role="group" aria-label="Filter projects"><button class="filter active" type="button" data-filter="all" aria-pressed="true">All work <span>06</span></button><button class="filter" type="button" data-filter="agents" aria-pressed="false">Agents &amp; RAG <span>03</span></button><button class="filter" type="button" data-filter="ml" aria-pressed="false">ML systems <span>03</span></button></div><span id="project-count" class="mono" role="status" aria-live="polite">6 projects</span></div>
+
         <div class="project-grid">
-          <a class="project-card project-featured" data-category="agents" href="https://github.com/anhtuan23004/Agentic-AI-Insurance-Claims" target="_blank" rel="noreferrer">
-            <div class="project-visual visual-claims"><div class="visual-top"><span>CLAIM / 00842</span><span class="visual-live">● REVIEW COMPLETE</span></div><div class="claim-flow"><span class="flow-node">INTAKE</span><i>→</i><span class="flow-node">VALIDATE</span><i>→</i><span class="flow-node flow-highlight">DECIDE</span></div><div class="visual-bottom"><span>AGENT WORKFLOW</span><span>LANGGRAPH · MCP</span></div></div>
-            <div class="project-info"><div><p class="project-type">AGENTIC AI <span>2025</span></p><h3>Insurance Claims<br />Orchestration</h3></div><span class="project-arrow">↗</span><p class="project-description">A multi-agent system for health claim validation, with deterministic routing, ICD-10 lookups, and human review loops.</p><div class="tags"><span>LangGraph</span><span>Langfuse</span><span>FastAPI</span></div></div>
-          </a>
-          <a class="project-card" data-category="agents" href="https://github.com/anhtuan23004/DocuminChat" target="_blank" rel="noreferrer">
-            <div class="project-visual visual-docs"><div class="doc-stack"><span class="doc-sheet sheet-back"></span><span class="doc-sheet sheet-mid"></span><span class="doc-sheet sheet-front"><b>DOCS</b><i></i><i></i><i></i></span><span class="doc-chip">Ask anything <b>↗</b></span></div><span class="visual-stamp">RAG / 01</span></div>
-            <div class="project-info"><div><p class="project-type">RETRIEVAL SYSTEMS <span>2024</span></p><h3>DocuminChat</h3></div><span class="project-arrow">↗</span><p class="project-description">Conversational search across PDFs, spreadsheets, and structured data with hierarchical chunking.</p><div class="tags"><span>LangChain</span><span>Milvus</span><span>Qdrant</span></div></div>
-          </a>
-          <a class="project-card" data-category="ml" href="https://github.com/anhtuan23004/LocalLLM" target="_blank" rel="noreferrer">
-            <div class="project-visual visual-local"><div class="terminal"><div class="terminal-bar"><b></b><b></b><b></b><span>local inference</span></div><div class="terminal-code"><span>$</span> serve --model <em>vision-language</em><br /><small>◉ model loaded · ready for requests</small><div class="terminal-meter"><i></i></div></div></div><span class="visual-stamp">ON-PREMISE / 02</span></div>
-            <div class="project-info"><div><p class="project-type">ML INFRASTRUCTURE <span>2024</span></p><h3>LocalLLM</h3></div><span class="project-arrow">↗</span><p class="project-description">An end-to-end local LLM and VLM stack for serving, fine-tuning, and inference optimization.</p><div class="tags"><span>vLLM</span><span>Ollama</span><span>Unsloth</span></div></div>
-          </a>
-          <a class="project-card" data-category="agents" href="https://github.com/anhtuan23004/langgraph-agent-skill" target="_blank" rel="noreferrer">
-            <div class="project-visual visual-graph"><div class="graph-node graph-start">START</div><div class="graph-lines"><i></i><i></i><i></i></div><div class="graph-node graph-agent">AGENT</div><div class="graph-node graph-tools">TOOLS</div><div class="graph-node graph-end">DONE</div><span class="visual-stamp">STATEFUL / 03</span></div>
-            <div class="project-info"><div><p class="project-type">AGENT FRAMEWORKS <span>2024</span></p><h3>Agent Skill Kit</h3></div><span class="project-arrow">↗</span><p class="project-description">Reusable patterns for configurable, stateful agent workflows driven by prompts and tools.</p><div class="tags"><span>LangGraph</span><span>Python</span><span>Agents</span></div></div>
-          </a>
-          <a class="project-card" data-category="ml" href="https://github.com/anhtuan23004/CrawlMed" target="_blank" rel="noreferrer">
-            <div class="project-visual visual-crawl"><div class="crawl-grid"><span>Rx</span><span>01</span><span>02</span><span>03</span><span>04</span><span>05</span><span>06</span><span>07</span><span>08</span></div><div class="crawl-label">STRUCTURED<br />MEDICAL DATA</div><span class="visual-stamp">INGEST / 04</span></div>
-            <div class="project-info"><div><p class="project-type">DATA ENGINEERING <span>2024</span></p><h3>CrawlMed</h3></div><span class="project-arrow">↗</span><p class="project-description">A high-throughput crawler that turns medical and pharmaceutical sources into structured datasets.</p><div class="tags"><span>Python</span><span>Crawl4AI</span><span>Data pipelines</span></div></div>
-          </a>
-          <a class="project-card" data-category="ml" href="https://github.com/anhtuan23004/SentimentScope" target="_blank" rel="noreferrer">
-            <div class="project-visual visual-sentiment"><div class="sentiment-chart"><span style="--h:42%"></span><span style="--h:63%"></span><span style="--h:51%"></span><span style="--h:82%"></span><span style="--h:68%"></span><span style="--h:94%"></span><span style="--h:76%"></span><span style="--h:88%"></span></div><div class="sentiment-score"><b>+0.82</b><span>POSITIVE SIGNAL</span></div><span class="visual-stamp">NLP / 05</span></div>
-            <div class="project-info"><div><p class="project-type">APPLIED NLP <span>2023</span></p><h3>SentimentScope</h3></div><span class="project-arrow">↗</span><p class="project-description">A batch sentiment analysis pipeline powered by transformer models for practical text insights.</p><div class="tags"><span>DistilBERT</span><span>Flask</span><span>Hugging Face</span></div></div>
-          </a>
+          <article class="project-card featured" data-category="agents">
+            <div class="project-visual claims-visual" role="img" aria-label="Conceptual claim validation flow from intake to routing, validation and human review">
+              <div class="visual-caption mono"><span>AGENTIC SYSTEM / 01</span><span>ARCHITECTURE SKETCH</span></div>
+              <div class="claims-diagram" aria-hidden="true"><div class="claim-input"><span>INPUT</span><strong>Insurance claim</strong><b>↧</b></div><div class="claim-router">Route &amp; validate <span>↗</span></div><div class="claim-branches"><span>ICD-10 lookup</span><span>Human review</span></div><div class="claim-result"><i></i> Structured decision</div></div>
+              <div class="visual-footer mono">TRACEABLE STEPS. HUMAN OVERSIGHT.</div>
+            </div>
+            <div class="project-info"><p class="eyebrow">AGENTIC AI / DECISION WORKFLOWS</p><h3>Insurance Claims<br />Orchestration</h3><p>Bringing structure to a complex validation workflow, with deterministic routing, domain lookups, and human review.</p><div class="tags"><span>LangGraph</span><span>MCP</span><span>Langfuse</span><span>FastAPI</span></div><div class="project-links"><button class="text-link study-trigger" type="button" data-study="claims">Explore the system <span aria-hidden="true">↗</span></button><a href="https://github.com/anhtuan23004/Agentic-AI-Insurance-Claims" target="_blank" rel="noreferrer" aria-label="Insurance Claims source on GitHub">Source ↗</a></div></div>
+          </article>
+          <article class="project-card" data-category="agents">
+            <div class="project-visual docs-visual" role="img" aria-label="Documents connected to a retrieval pipeline">
+              <div class="visual-caption mono"><span>RETRIEVAL SYSTEM / 02</span><span>DOCUMINCHAT</span></div>
+              <div class="documents" aria-hidden="true"><div class="document doc-back"><span>XLSX</span><i></i><i></i><i></i></div><div class="document doc-middle"><span>JSON</span><i></i><i></i><i></i></div><div class="document doc-front"><span>PDF</span><strong>Knowledge,<br />connected.</strong><i></i><i></i></div><div class="retrieval-chip">RETRIEVE → RESPOND</div></div>
+              <div class="visual-footer mono">MANY FORMATS. ONE CONVERSATION.</div>
+            </div>
+            <div class="project-info"><p class="eyebrow">RAG / KNOWLEDGE SYSTEMS</p><h3>DocuminChat</h3><p>A conversational retrieval pipeline that connects questions with knowledge across documents and structured files.</p><div class="tags"><span>LangChain</span><span>Milvus</span><span>Qdrant</span></div><div class="project-links"><button class="text-link study-trigger" type="button" data-study="docs">Explore the system <span aria-hidden="true">↗</span></button><a href="https://github.com/anhtuan23004/DocuminChat" target="_blank" rel="noreferrer" aria-label="DocuminChat source on GitHub">Source ↗</a></div></div>
+          </article>
+          <article class="project-card" data-category="ml">
+            <div class="project-visual local-visual" role="img" aria-label="Conceptual local inference infrastructure with model, runtime and API layers">
+              <div class="visual-caption mono"><span>MODEL INFRASTRUCTURE / 03</span><span>LOCALLLM</span></div>
+              <div class="server-stack" aria-hidden="true"><div><span>01</span><strong>MODEL</strong><small>LLM / VLM</small><i></i></div><div><span>02</span><strong>RUNTIME</strong><small>vLLM / Ollama</small><i></i></div><div><span>03</span><strong>INTERFACE</strong><small>Inference API</small><i></i></div></div>
+              <div class="visual-footer mono">YOUR MODELS. YOUR INFRASTRUCTURE.</div>
+            </div>
+            <div class="project-info"><p class="eyebrow">LLM &amp; VLM / LOCAL INFERENCE</p><h3>LocalLLM</h3><p>Exploring the full model lifecycle: serving, fine-tuning, deployment, and inference optimization on local infrastructure.</p><div class="tags"><span>vLLM</span><span>Ollama</span><span>PyTorch</span><span>Unsloth</span></div><div class="project-links"><button class="text-link study-trigger" type="button" data-study="local">Explore the system <span aria-hidden="true">↗</span></button><a href="https://github.com/anhtuan23004/LocalLLM" target="_blank" rel="noreferrer" aria-label="LocalLLM source on GitHub">Source ↗</a></div></div>
+          </article>
         </div>
-      </section>
+        <div class="more-projects">
+          <a class="project-row" data-category="agents" href="https://github.com/anhtuan23004/langgraph-agent-skill" target="_blank" rel="noreferrer"><span class="mono">04</span><h3>Agent Skill Kit</h3><p>Reusable patterns for stateful agent workflows.</p><span class="row-category mono">LANGGRAPH / PYTHON</span><span aria-hidden="true">↗</span></a>
+          <a class="project-row" data-category="ml" href="https://github.com/anhtuan23004/CrawlMed" target="_blank" rel="noreferrer"><span class="mono">05</span><h3>CrawlMed</h3><p>Structured medical data ingestion for retrieval.</p><span class="row-category mono">DATA ENGINEERING</span><span aria-hidden="true">↗</span></a>
+          <a class="project-row" data-category="ml" href="https://github.com/anhtuan23004/SentimentScope" target="_blank" rel="noreferrer"><span class="mono">06</span><h3>SentimentScope</h3><p>Transformer-based sentiment analysis in batches.</p><span class="row-category mono">DISTILBERT / FLASK</span><span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="work-footer mono"><span>FROM EXPERIMENTS TO SYSTEMS THINKING.</span><a href="https://github.com/anhtuan23004?tab=repositories" target="_blank" rel="noreferrer">ALL REPOSITORIES ↗</a></div>
+      </div>
+    </section>
 
-      <section class="about-section" id="about"><div class="wrap about-layout section-pad"><div class="about-label"><p class="eyebrow">02 / A LITTLE ABOUT ME</p><span class="about-number">01—04</span></div><div class="about-copy"><h2>Architect systems.<br /><em>Engineer outcomes.</em></h2><p class="about-lead">I’m Mai Anh Tuan, an AI Solution Architect and Engineer focused on turning complex workflows into useful, dependable AI products.</p><p>I work across the solution lifecycle: clarify the problem, shape the architecture, select the right models and data patterns, then build, evaluate, and operate the system.</p><p>My current focus includes agentic orchestration, self-hosted vision-language models, enterprise RAG, and cloud AI on AWS and Google Cloud — with human oversight and observability built in.</p><a class="text-link" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">More on GitHub <span>↗</span></a></div><div class="about-side"><div class="orbit-mark"><span>✳</span><i></i></div><p>BUILD WITH<br />INTENTION.</p></div></div></section>
+    <section class="approach-section wrap section-space" id="approach" aria-labelledby="approach-title">
+      <div class="section-label"><span class="eyebrow">03 / HOW I WORK</span><span class="mono">THE DECISIONS BEHIND THE SYSTEM</span></div>
+      <div class="section-heading"><h2 class="display-title" id="approach-title">FROM QUESTION<br /><span class="muted">TO WORKING SYSTEM.</span></h2><p>A practical approach to connecting<br />business context, model behavior,<br />and production constraints.</p></div>
+      <div class="approach-list">
+        <details class="approach-item" open><summary><span class="mono">01</span><h3>Frame the problem.</h3><span class="summary-note">CONTEXT → ARCHITECTURE</span><span class="expand-icon" aria-hidden="true">+</span></summary><div class="approach-content"><p>Understand the workflow, the data, and the decisions the system needs to support. Define what useful output looks like before choosing a model.</p><ul><li>Use cases &amp; system boundaries</li><li>Data flows &amp; retrieval strategy</li><li>Human review &amp; failure paths</li></ul><div class="mini-flow mono" aria-hidden="true"><span>PROBLEM</span><i>→</i><span>CONSTRAINTS</span><i>→</i><span>DESIGN</span></div></div></details>
+        <details class="approach-item"><summary><span class="mono">02</span><h3>Engineer the solution.</h3><span class="summary-note">ARCHITECTURE → IMPLEMENTATION</span><span class="expand-icon" aria-hidden="true">+</span></summary><div class="approach-content"><p>Connect models, retrieval, tools, and APIs into a coherent workflow. Choose where orchestration helps and where explicit rules keep behavior predictable.</p><ul><li>Agent &amp; RAG pipelines</li><li>Model serving &amp; adaptation</li><li>APIs &amp; cloud deployment</li></ul><div class="mini-flow mono" aria-hidden="true"><span>DATA</span><i>→</i><span>MODEL</span><i>→</i><span>PRODUCT</span></div></div></details>
+        <details class="approach-item"><summary><span class="mono">03</span><h3>Evaluate &amp; improve.</h3><span class="summary-note">IMPLEMENTATION → FEEDBACK</span><span class="expand-icon" aria-hidden="true">+</span></summary><div class="approach-content"><p>Make system behavior visible. Use evaluation and human feedback to understand quality, find failure modes, and make informed tradeoffs around latency and cost.</p><ul><li>Evaluation criteria &amp; examples</li><li>Traces &amp; observability</li><li>Feedback &amp; iteration</li></ul><div class="mini-flow mono" aria-hidden="true"><span>OBSERVE</span><i>→</i><span>EVALUATE</span><i>→</i><span>REFINE</span></div></div></details>
+      </div>
+    </section>
 
-      <section class="toolkit-section wrap section-pad" id="toolkit"><div class="section-heading toolkit-heading"><div><p class="eyebrow">03 / THE TOOLKIT</p><h2>Good tools.<br /><em>Better systems.</em></h2></div><p class="section-note">A flexible stack shaped around the problem, from solution design and model development to reliable cloud deployment.</p></div><div class="toolkit-grid"><div class="tool-group"><span class="tool-index">01</span><h3>AI architecture</h3><p>Agentic systems, LangGraph, LangChain, MCP, RAG, human-in-the-loop</p></div><div class="tool-group"><span class="tool-index">02</span><h3>Models &amp; tuning</h3><p>PyTorch, Qwen-VL, PEFT, LoRA / QLoRA, Unsloth</p></div><div class="tool-group"><span class="tool-index">03</span><h3>Cloud AI</h3><p><b>AWS</b> Bedrock, SageMaker, Lambda, ECS, S3<br /><b>GCP</b> Vertex AI, Cloud Run, BigQuery, Cloud Storage</p></div><div class="tool-group"><span class="tool-index">04</span><h3>ML operations</h3><p>MLflow, Langfuse, vLLM, Docker, Ollama</p></div><div class="tool-group"><span class="tool-index">05</span><h3>Data &amp; backend</h3><p>PostgreSQL, MongoDB, Milvus, Qdrant, Python, FastAPI</p></div></div></section>
+    <section class="toolkit-section" id="toolkit" aria-labelledby="toolkit-title"><div class="wrap section-space">
+      <div class="section-label"><span class="eyebrow">04 / TECHNOLOGY &amp; FOUNDATIONS</span><span class="mono">CHOOSE FOR THE PROBLEM.</span></div>
+      <div class="section-heading"><h2 class="display-title" id="toolkit-title">THE RIGHT TOOLS.<br /><span class="muted">CONNECTED WELL.</span></h2><p>From model development<br />to the infrastructure<br />that makes it accessible.</p></div>
+      <div class="cloud-grid"><article class="cloud-card"><div class="cloud-title"><span class="mono">CLOUD / 01</span><span class="cloud-symbol aws-symbol" aria-hidden="true">↗</span></div><h3>Amazon Web Services</h3><p>AI platforms, application compute, and storage.</p><div class="cloud-services"><span>Bedrock</span><span>SageMaker</span><span>Lambda</span><span>ECS</span><span>S3</span></div></article><article class="cloud-card"><div class="cloud-title"><span class="mono">CLOUD / 02</span><span class="cloud-symbol gcp-symbol" aria-hidden="true">✳</span></div><h3>Google Cloud</h3><p>Model development, serving, and data services.</p><div class="cloud-services"><span>Vertex AI</span><span>Cloud Run</span><span>BigQuery</span><span>Cloud Storage</span></div></article></div>
+      <dl class="toolkit-list"><div><dt>Agents &amp; retrieval</dt><dd>LangGraph · LangChain · MCP · RAG · Mastra</dd></div><div><dt>Models &amp; adaptation</dt><dd>PyTorch · Qwen-VL · PEFT · LoRA / QLoRA · Unsloth</dd></div><div><dt>Serving &amp; observability</dt><dd>vLLM · Ollama · Docker · MLflow · Langfuse</dd></div><div><dt>Data &amp; backend</dt><dd>Python · FastAPI · PostgreSQL · MongoDB · Milvus · Qdrant</dd></div></dl>
+      <div class="education"><span class="eyebrow">ACADEMIC FOUNDATION</span><div><h3>Bachelor of Engineering<br />in Information Technology</h3><p>VNU University of Engineering and Technology</p></div><span class="education-mark" aria-hidden="true">↗</span></div>
+    </div></section>
 
-      <section class="contact-section"><div class="wrap contact-layout"><p class="eyebrow">04 / OPEN TO GOOD PROBLEMS</p><h2>Have something<br />worth <em>building?</em></h2><p class="contact-copy">I’m always interested in thoughtful conversations about applied AI, agent systems, and products that make a difference.</p><a class="button button-light" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">Start a conversation <span>↗</span></a><div class="contact-orbit" aria-hidden="true"><i></i><i></i><i></i><b>✳</b></div></div></section>
-    </main>
-    <footer class="site-footer wrap"><a class="wordmark" href="#top">MAT<span>.</span></a><p>Designed &amp; built with intent <span>© <span id="year">2026</span></span></p><div class="footer-links"><a href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">GitHub ↗</a><a href="https://www.kaggle.com/anhtuan23004" target="_blank" rel="noreferrer">Kaggle ↗</a><a href="https://leetcode.com/u/anhtuan234004/" target="_blank" rel="noreferrer">LeetCode ↗</a></div></footer>
-  </body>
+    <section class="contact-section dark-section" id="contact" aria-labelledby="contact-title"><div class="contact-glow" aria-hidden="true"></div><div class="wrap contact-content"><p class="eyebrow"><i class="status-dot"></i> OPEN TO COLLABORATION</p><h2 id="contact-title">LET’S MAKE<br />AI <span>USEFUL.</span></h2><div class="contact-bottom"><p>Have a problem worth understanding?<br />Let’s explore what we can build.</p><a class="button button-light" href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">Find me on GitHub <span aria-hidden="true">↗</span></a></div></div></section>
+  </main>
+  <footer class="site-footer wrap"><a class="wordmark" href="#top"><span class="brand-symbol" aria-hidden="true">m.</span> MAI ANH TUAN</a><span class="mono">© <span id="year">2026</span> · MADE WITH INTENT.</span><div class="footer-links"><a href="https://github.com/anhtuan23004" target="_blank" rel="noreferrer">GitHub ↗</a><a href="https://www.kaggle.com/anhtuan23004" target="_blank" rel="noreferrer">Kaggle ↗</a><a href="https://leetcode.com/u/anhtuan234004/" target="_blank" rel="noreferrer">LeetCode ↗</a></div><a class="back-top" href="#top" aria-label="Back to top">↑</a></footer>
+
+  <dialog class="study-dialog" aria-labelledby="study-title"><div class="dialog-top"><span class="eyebrow">PROJECT / SYSTEM NOTES</span><button class="dialog-close" type="button" aria-label="Close project details">✕</button></div><h2 id="study-title"></h2><p id="study-intro" class="lead"></p><div id="study-content"></div><a id="study-source" class="button button-dark" target="_blank" rel="noreferrer">Explore the repository <span aria-hidden="true">↗</span></a></dialog>
+</body>
 </html>
